@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AtomCrtr
+- 👀 I’m interested in Data to become a Data Engineering
+- 🌱 I’m currently learning Python, SQL, Pandas...
+- 📫 I live in France, Britanny. Nantes is Britanny. 
+- 😄 Pronouns: She
