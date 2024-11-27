@@ -4,7 +4,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 ---
 
-## 🛠️ Tech Stack  (https://camo.githubusercontent.com/9effaa93dcfc950a0091e41858607685dc1c3805a5c20545cbc1b6b3ed287531/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966)
+## 🛠️ Tech Stack  
 
 ### Langages de programmation et outils  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
