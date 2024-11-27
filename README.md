@@ -27,7 +27,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 ## 🚀 Projets récents  
 
-### 🎮 [Toys and Models Database Analysis](https://github.com/toys-and-models-analysis)  
+### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
 Analyse complète d’une base de données pour un magasin de modèles réduits, avec des insights business et des dashboards interactifs.
 
 ### 🎬 [Movie Recommendation App](https://github.com/votre-repo-movie-recommendation)  
