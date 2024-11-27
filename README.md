@@ -53,6 +53,6 @@ Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des pass
 
 ## 📫 Me contacter  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeline-cartier)  
-📧 **Email** : emeline.cartier.data@gmail.com  
+📧 **Email** : cartieremeline@outlook.fr
 
 Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me laisser vos retours.  
