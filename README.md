@@ -31,10 +31,10 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 Analyse complète d’une base de données pour un magasin de modèles réduits, avec des insights business et des dashboards interactifs.
 
 ### 🎬 [Movie Recommendation App](https://github.com/votre-repo-movie-recommendation)  
-Création d'une application de recommandations de films pour un cinéma dans la Creuse. Ce projet utilise les bases IMDb et TMDB, avec des algorithmes de machine learning et des KPI personnalisés.
+En cours...Création d'une application de recommandations de films pour un cinéma dans la Creuse. Ce projet utilise les bases IMDb et TMDB, avec des algorithmes de machine learning et des KPI personnalisés.
 
 ### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic)  
-Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des passagers à bord d’un vaisseau spatial fictif. Analyse statistique, modèles de classification, et visualisations avancées.
+En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des passagers à bord d’un vaisseau spatial fictif. Analyse statistique, modèles de classification, et visualisations avancées.
 
 ---
 
