@@ -54,5 +54,6 @@ En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la surv
 ## 📫 Me contacter  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emeline-cartier-53b3b2199)  
 📧 **Email** : cartieremeline@outlook.fr
+📧 **Second Email** : feildelemeline@hotmail.fr
 
 Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me laisser vos retours.  
