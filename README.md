@@ -30,7 +30,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 ### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
 Analyse complète d’une base de données pour un magasin de modèles réduits, avec des insights business et des dashboards interactifs.
 
-### 🎬 [Movie Recommendation App](https://github.com/votre-repo-movie-recommendation)  
+### 🎬 [Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)  
 En cours...Création d'une application de recommandations de films pour un cinéma dans la Creuse. Ce projet utilise les bases IMDb et TMDB, avec des algorithmes de machine learning et des KPI personnalisés.
 
 ### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic)  
