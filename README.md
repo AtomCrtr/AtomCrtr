@@ -39,15 +39,22 @@ En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la surv
 ---
 
 ## 🌱 Ce que j’apprends actuellement  
-- 🧠 Algorithmes de machine learning supervisé et non supervisé  
-- 📊 DAX et M pour Power BI  
-- 🔍 Techniques avancées de data cleaning et wrangling  
+🤖 Algorithmes avancés de machine learning (supervisé, non supervisé) et concepts de deep learning.
+
+🛠️ Fondamentaux en Data Engineering : manipulation de données avec PySpark, gestion de pipelines ETL et bases de données NoSQL.
+
+📊 DAX et langage M pour Power BI.
+
+🔍 Techniques avancées de data cleaning, wrangling et optimisation de modèles prédictifs.  
 
 ---
 
 ## 🎯 Objectifs pour 2025  
-- Rejoindre une équipe dynamique pour un stage ou un emploi en Data Analysis ou Data Science.  
-- Développer mes compétences en **Deep Learning** et **NLP**.  
+-Rechercher une alternance en Data Engineering à partir d'octobre 2025 pour perfectionner mes compétences techniques et professionnelles.
+
+-Développer des compétences approfondies en gestion des pipelines de données, cloud computing et architectures big data.
+
+-Contribuer activement à des projets d’analyse et d’ingénierie de données pour des prises de décisions stratégiques. 
 
 ---
 
