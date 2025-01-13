@@ -50,11 +50,11 @@ En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la surv
 ---
 
 ## 🎯 Objectifs pour 2025  
--Rechercher une alternance en Data Engineering à partir d'octobre 2025 pour perfectionner mes compétences techniques et professionnelles.
+Rechercher une alternance en Data Engineering à partir d'octobre 2025 pour perfectionner mes compétences techniques et professionnelles.
 
--Développer des compétences approfondies en gestion des pipelines de données, cloud computing et architectures big data.
+Développer des compétences approfondies en gestion des pipelines de données, cloud computing et architectures big data.
 
--Contribuer activement à des projets d’analyse et d’ingénierie de données pour des prises de décisions stratégiques. 
+Contribuer activement à des projets d’analyse et d’ingénierie de données pour des prises de décisions stratégiques. 
 
 ---
 
