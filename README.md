@@ -38,6 +38,7 @@ En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la surv
 
 ### 🪐 [SolarScope](https://github.com/votre-repo-solarscope)
 En cours...
+
 ---
 
 ## 🌱 Ce que j’apprends actuellement  
