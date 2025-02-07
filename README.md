@@ -36,6 +36,7 @@ Développement d'une application innovante de recommandations de films pour un c
 ### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic)  
 En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des passagers à bord d’un vaisseau spatial fictif. Analyse statistique, modèles de classification, et visualisations avancées.
 
+### 🪐 SolarScope [SolarScope](https://github.com/votre-repo-solarscope)
 ---
 
 ## 🌱 Ce que j’apprends actuellement  
