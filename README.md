@@ -33,6 +33,9 @@ Analyse complète d’une base de données pour un magasin de modèles réduits,
 ### 🎬 [Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)  
 Développement d'une application innovante de recommandations de films pour un cinéma local dans la Creuse. Ce projet exploite les bases de données IMDb et TMDB pour fournir des recommandations personnalisées grâce à des algorithmes de machine learning. Une interface interactive, enrichie de KPI sur mesure, permet d'optimiser l'expérience des spectateurs et la gestion des films.
 
+### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
+Analyse des tendances YouTube réalisée le 11 février 2025. Extraction de données via l’API YouTube, nettoyage et visualisation des tendances avec Power BI. Étude des catégories dominantes, des créateurs influents et de la corrélation entre vues et likes.
+
 ### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic)  
 En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des passagers à bord d’un vaisseau spatial fictif. Analyse statistique, modèles de classification, et visualisations avancées.
 
