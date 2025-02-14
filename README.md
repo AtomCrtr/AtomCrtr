@@ -117,18 +117,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me laisser vos retours.  
 
-<h2 align="center">🚀 GitHub Stats - Vision 2025</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-
-<h2 align="center">🚀 Cyber Stats - Future Intelligence</h2>
+<h2 align="center">🚀 Cyber Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Cyber Stats" />
