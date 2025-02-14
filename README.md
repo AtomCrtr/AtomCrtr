@@ -125,3 +125,18 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 📧 **Second Email** : feildelemeline@hotmail.fr
 
 Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me laisser vos retours.  
+
+<h2 align="center">🚀 GitHub Stats - Vision 2025</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomCrtr&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
