@@ -103,8 +103,6 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 🛠️ **Data Engineering** : manipulation de données avec **SQL avancé**, structuration et optimisation de bases de données relationnelles.  
 
-📊 **DataViz & BI** : Power BI avec **DAX**, création de dashboards dynamiques, automatisation des rapports.  
-
 🔍 **Analyse et Préparation des Données** : techniques avancées de data wrangling, nettoyage et traitement de grands datasets.  
 
 ---
