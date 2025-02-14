@@ -124,10 +124,21 @@ Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me lais
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomCrtr&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+
+<h2 align="center">🚀 Cyber Stats - Future Intelligence</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Cyber Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomCrtr&theme=highcontrast&hide_border=true" alt="Neon Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Neon Languages" />
 </p>
 
