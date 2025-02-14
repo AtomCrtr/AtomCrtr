@@ -4,6 +4,10 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 ---
 
+Voici une version améliorée de ton **Tech Stack** avec des ajouts innovants et pertinents pour un Data Analyst / Data Engineer en devenir. J'ai inclus des technologies avancées et émergentes pour te donner un profil encore plus impressionnant sur ton GitHub.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### Langages de programmation et outils  
@@ -11,6 +15,8 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### Bibliothèques et frameworks  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -18,10 +24,21 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6E7582?style=for-the-badge)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E5D9F?style=for-the-badge)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ### Bases de données  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+### Data Engineering et Cloud  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ---
 
