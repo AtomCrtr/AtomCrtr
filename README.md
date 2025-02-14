@@ -62,38 +62,29 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 <h2 align="center">🚀 Projets récents</h2>
 
 ### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
-🔍 **Analyse complète** d’une base de données d’un magasin de modèles réduits.  
-📊 **Exploration et visualisation** des données pour extraire des insights business.  
-📈 **Création de dashboards interactifs** pour optimiser la gestion des stocks et des ventes.  
-🛠️ **Technos utilisées** : Python, SQL, Pandas, Matplotlib, Power BI.  
+🔍 **Analyse et visualisation** d’une base de données d’un magasin de modèles réduits.  
+📊 **Dashboards interactifs** pour optimiser la gestion des stocks et ventes.  
+🛠️ *Python, SQL, Pandas, Matplotlib, Power BI.*  
 
 ### 🎬 [Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)  
-🎥 **Développement d'une application** de recommandations de films pour un cinéma local dans la Creuse.  
-🧠 **Exploitation des bases IMDb & TMDB** pour des suggestions personnalisées.  
-🤖 **Utilisation d'algorithmes de machine learning** (SVD, KNN, Content-Based Filtering).  
-📊 **Interface interactive avec KPI sur mesure** pour améliorer l’expérience spectateur.  
-🛠️ **Technos utilisées** : Python, Scikit-Learn, Flask, Streamlit, Pandas, API IMDb & TMDB.  
+🎥 **Application de recommandations de films** basée sur IMDb & TMDB.  
+🤖 **Algorithmes ML** (SVD, KNN, Content-Based Filtering) pour suggestions personnalisées.  
+🛠️ *Python, Scikit-Learn, Flask, Streamlit, Pandas, APIs IMDb & TMDB.*  
 
 ### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)  
-📡 **Extraction et analyse** des tendances YouTube (données du 11 février 2025).  
-🛠️ **Utilisation de l’API YouTube** pour récupérer des métriques clés.  
-📊 **Visualisation sous Power BI** : catégories dominantes, créateurs influents, corrélation vues/likes.  
-🚀 **Automatisation des mises à jour des données** avec des scripts Python.  
-🛠️ **Technos utilisées** : Python, API YouTube, Pandas, Power BI, SQL.  
+📡 **Analyse des tendances YouTube** (données du 11/02/2025) via l’API YouTube.  
+📊 **Dashboards Power BI** sur les catégories dominantes et créateurs influents.  
+🛠️ *Python, API YouTube, Pandas, Power BI, SQL.*  
 
 ### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic) *(En cours...)*  
-🌌 **Projet Kaggle exploratoire** sur la survie des passagers d’un vaisseau spatial fictif.  
-📊 **Analyse statistique poussée** et sélection de variables pertinentes.  
-🤖 **Modélisation avancée** avec Random Forest, XGBoost et Réseaux de Neurones.  
-📈 **Optimisation des modèles et validation croisée**.  
-🛠️ **Technos utilisées** : Python, Scikit-Learn, XGBoost, Seaborn, Matplotlib, Kaggle.  
+🌌 **Modélisation prédictive** pour la survie des passagers d’un vaisseau spatial fictif.  
+📊 **Optimisation des modèles ML** (Random Forest, XGBoost, Réseaux de Neurones).  
+🛠️ *Python, Scikit-Learn, XGBoost, Seaborn, Matplotlib, Kaggle.*  
 
 ### 🪐 [SolarScope](https://github.com/votre-repo-solarscope) *(En cours...)*  
-🔭 **Plateforme interactive** explorant et analysant les données des planètes du Système solaire.  
-📊 **Données en temps réel** grâce à l’API Le Système Solaire & API NASA.  
-🛰️ **Visualisation et animations dynamiques** pour une immersion scientifique.  
-📡 **Tableaux de bord analytiques** permettant d’explorer les relations entre les caractéristiques planétaires.  
-🛠️ **Technos utilisées** : Python, FastAPI, Streamlit, Three.js, MongoDB, API NASA.  
+🔭 **Exploration interactive** des planètes du Système solaire avec des données en temps réel.  
+🛰️ **Visualisation et animations dynamiques** via APIs spécialisées.  
+🛠️ *Python, FastAPI, Streamlit, Three.js, MongoDB, API NASA.*  
 
 ---
 
