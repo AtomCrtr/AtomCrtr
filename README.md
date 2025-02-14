@@ -61,40 +61,74 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 <h2 align="center">🚀 Projets récents</h2>
 
+---
+
 ### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
-Analyse complète d’une base de données pour un magasin de modèles réduits, avec des insights business et des dashboards interactifs.
+🔍 **Analyse complète** d’une base de données d’un magasin de modèles réduits.  
+📊 **Exploration et visualisation** des données pour extraire des insights business.  
+📈 **Création de dashboards interactifs** pour optimiser la gestion des stocks et des ventes.  
+🛠️ **Technos utilisées** : Python, SQL, Pandas, Matplotlib, Power BI.  
+
+---
 
 ### 🎬 [Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)  
-Développement d'une application innovante de recommandations de films pour un cinéma local dans la Creuse. Ce projet exploite les bases de données IMDb et TMDB pour fournir des recommandations personnalisées grâce à des algorithmes de machine learning. Une interface interactive, enrichie de KPI sur mesure, permet d'optimiser l'expérience des spectateurs et la gestion des films.
+🎥 **Développement d'une application** de recommandations de films pour un cinéma local dans la Creuse.  
+🧠 **Exploitation des bases IMDb & TMDB** pour des suggestions personnalisées.  
+🤖 **Utilisation d'algorithmes de machine learning** (SVD, KNN, Content-Based Filtering).  
+📊 **Interface interactive avec KPI sur mesure** pour améliorer l’expérience spectateur.  
+🛠️ **Technos utilisées** : Python, Scikit-Learn, Flask, Streamlit, Pandas, API IMDb & TMDB.  
 
-### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
-Analyse des tendances YouTube réalisée le 11 février 2025. Extraction de données via l’API YouTube, nettoyage et visualisation des tendances avec Power BI. Étude des catégories dominantes, des créateurs influents et de la corrélation entre vues et likes.
+---
 
-### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic)  
-En cours...Projet exploratoire basé sur un dataset Kaggle pour prédire la survie des passagers à bord d’un vaisseau spatial fictif. Analyse statistique, modèles de classification, et visualisations avancées.
+### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)  
+📡 **Extraction et analyse** des tendances YouTube (données du 11 février 2025).  
+🛠️ **Utilisation de l’API YouTube** pour récupérer des métriques clés.  
+📊 **Visualisation sous Power BI** : catégories dominantes, créateurs influents, corrélation vues/likes.  
+🚀 **Automatisation des mises à jour des données** avec des scripts Python.  
+🛠️ **Technos utilisées** : Python, API YouTube, Pandas, Power BI, SQL.  
 
-### 🪐 [SolarScope](https://github.com/votre-repo-solarscope)
-En cours...
+---
+
+### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic) *(En cours...)*  
+🌌 **Projet Kaggle exploratoire** sur la survie des passagers d’un vaisseau spatial fictif.  
+📊 **Analyse statistique poussée** et sélection de variables pertinentes.  
+🤖 **Modélisation avancée** avec Random Forest, XGBoost et Réseaux de Neurones.  
+📈 **Optimisation des modèles et validation croisée**.  
+🛠️ **Technos utilisées** : Python, Scikit-Learn, XGBoost, Seaborn, Matplotlib, Kaggle.  
+
+---
+
+### 🪐 [SolarScope](https://github.com/votre-repo-solarscope) *(En cours...)*  
+🔭 **Plateforme interactive** explorant et analysant les données des planètes du Système solaire.  
+📊 **Données en temps réel** grâce à l’API Le Système Solaire & API NASA.  
+🛰️ **Visualisation et animations dynamiques** pour une immersion scientifique.  
+📡 **Tableaux de bord analytiques** permettant d’explorer les relations entre les caractéristiques planétaires.  
+🛠️ **Technos utilisées** : Python, FastAPI, Streamlit, Three.js, MongoDB, API NASA.  
+
 
 ---
 
 <h2 align="center">🌱 Ce que j’apprends actuellement</h2>
-🤖 Algorithmes avancés de machine learning (supervisé, non supervisé) et concepts de deep learning.
 
-🛠️ Fondamentaux en Data Engineering : manipulation de données avec PySpark, gestion de pipelines ETL et bases de données NoSQL.
+🤖 **Machine Learning & Deep Learning** : algorithmes supervisés et non supervisés, réseaux de neurones, feature engineering.  
 
-📊 DAX et langage M pour Power BI.
+🛠️ **Data Engineering** : manipulation de données avec **SQL avancé**, structuration et optimisation de bases de données relationnelles.  
 
-🔍 Techniques avancées de data cleaning, wrangling et optimisation de modèles prédictifs.  
+📊 **DataViz & BI** : Power BI avec **DAX**, création de dashboards dynamiques, automatisation des rapports.  
+
+🔍 **Analyse et Préparation des Données** : techniques avancées de data wrangling, nettoyage et traitement de grands datasets.  
 
 ---
 
-<h2 align="center">🎯 Objectifs pour 2025</h2>
-Rechercher une alternance en Data Engineering à partir d'octobre 2025 pour perfectionner mes compétences techniques et professionnelles.
+<h2 align="center">🎯 Ce que je vais apprendre</h2>
 
-Développer des compétences approfondies en gestion des pipelines de données, cloud computing et architectures big data.
+🚀 **Cloud & Big Data** : introduction à **AWS, Google Cloud**, stockage et gestion de données massives avec **BigQuery**.  
 
-Contribuer activement à des projets d’analyse et d’ingénierie de données pour des prises de décisions stratégiques. 
+⚙️ **Data Engineering avancé** : ETL avec **Apache Airflow, Kafka**, orchestration et gestion de flux de données.  
+
+📡 **MLOps & Déploiement** : industrialisation des modèles, CI/CD, gestion des modèles avec **MLflow & FastAPI**.  
+
+🔬 **Computer Vision & NLP** : exploration avancée du deep learning appliqué à la vision par ordinateur et au traitement du langage naturel.  
 
 ---
 
