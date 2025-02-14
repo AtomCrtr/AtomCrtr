@@ -110,13 +110,6 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 ---
 
-## 📫 Me contacter  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emeline-cartier)  
-📧 **Email** : cartieremeline@outlook.fr
-📧 **Second Email** : feildelemeline@hotmail.fr
-
-Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me laisser vos retours.  
-
 <h2 align="center">🚀 Cyber Stats</h2>
 
 <p align="center">
@@ -131,3 +124,9 @@ Merci de votre visite ! ✨ N'hésitez pas à explorer mes projets et à me lais
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Neon Languages" />
 </p>
 
+---
+
+## 📫 Me contacter  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emeline-cartier)  
+📧 **Email** : cartieremeline@outlook.fr
+📧 **Second Email** : feildelemeline@hotmail.fr
