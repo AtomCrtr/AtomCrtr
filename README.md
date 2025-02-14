@@ -1,4 +1,4 @@
-# 👩‍💻 Emeline Cartier | Junior Data Analyst  
+<h1 align="center">👩‍💻 Emeline Cartier | Junior Data Analyst</h1>
 
 Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour résoudre des problèmes complexes, je suis en pleine reconversion professionnelle en tant que Data Analyst après 3 ans d’expérience en gendarmerie. Actuellement en formation à la Wild Code School (Nantes), je travaille sur des projets combinant **analyse de données**, **machine learning** et **visualisation interactive**.
 
