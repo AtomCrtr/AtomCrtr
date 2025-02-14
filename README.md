@@ -59,7 +59,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 
 ---
 
-## 🚀 Projets récents  
+<h2 align="center">🚀 Projets récents</h2>
 
 ### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
 Analyse complète d’une base de données pour un magasin de modèles réduits, avec des insights business et des dashboards interactifs.
@@ -78,7 +78,7 @@ En cours...
 
 ---
 
-## 🌱 Ce que j’apprends actuellement  
+<h2 align="center">🌱 Ce que j’apprends actuellement</h2>
 🤖 Algorithmes avancés de machine learning (supervisé, non supervisé) et concepts de deep learning.
 
 🛠️ Fondamentaux en Data Engineering : manipulation de données avec PySpark, gestion de pipelines ETL et bases de données NoSQL.
@@ -89,7 +89,7 @@ En cours...
 
 ---
 
-## 🎯 Objectifs pour 2025  
+<h2 align="center">🎯 Objectifs pour 2025</h2>
 Rechercher une alternance en Data Engineering à partir d'octobre 2025 pour perfectionner mes compétences techniques et professionnelles.
 
 Développer des compétences approfondies en gestion des pipelines de données, cloud computing et architectures big data.
