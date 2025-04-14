@@ -81,7 +81,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 📊 **Optimisation des modèles ML** (Random Forest, XGBoost, Réseaux de Neurones).  
 🛠️ *Python, Scikit-Learn, XGBoost, Seaborn, Matplotlib, Kaggle.*  
 
-### 🪐 [SolarScope](https://github.com/votre-repo-solarscope) *(En cours...)*  
+### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope) *(En cours...)*  
 🔭 **Exploration interactive** des planètes du Système solaire avec des données en temps réel.  
 🛰️ **Visualisation et animations dynamiques** via APIs spécialisées.  
 🛠️ *Python, FastAPI, Streamlit, Three.js, MongoDB, API NASA.*  
