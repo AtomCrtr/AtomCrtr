@@ -84,7 +84,7 @@ Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour rés
 ### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope) *(En cours...)*  
 🔭 **Exploration interactive** des planètes du Système solaire avec des données en temps réel.  
 🛰️ **Visualisation et animations dynamiques** via APIs spécialisées.  
-🛠️ *Python, FastAPI, Streamlit, Three.js, MongoDB, API NASA.*  
+🛠️ *Python, FastAPI, Streamlit, JSON, API NASA.*  
 
 ---
 
