@@ -1,132 +1,88 @@
-<h1 align="center">👩‍💻 Emeline Cartier | Junior Data Analyst</h1>
+<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer @ Airbus Atlantic</h1>
 
-Bienvenue sur mon GitHub ! Passionnée par la donnée et son potentiel pour résoudre des problèmes complexes, je suis en pleine reconversion professionnelle en tant que Data Analyst après 3 ans d’expérience en gendarmerie. Actuellement en formation à la Wild Code School (Nantes), je travaille sur des projets combinant **analyse de données**, **machine learning** et **visualisation interactive**.
+<p align="center">
+  <strong>Ancienne Gendarme ➔ Ingénieure de Données & OSINT</strong><br>
+  Fusionner la rigueur de l'enquête de terrain avec la puissance de l'architecture Big Data industrielle.
+</p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🏗️ Expérience Actuelle : Airbus Atlantic (Montoir-de-Bretagne)
+[cite_start]Depuis mon arrivée en alternance, j'évolue en **autonomie complète (Sole Contributor)** sur la construction d'une architecture Data & Digitalisation[cite: 2, 3]:
+* [cite_start]**Architecture ELT sur Skywise :** Mise en place d'un pipeline complet (Extract, Load, Transform) via **Pipeline Builder** pour le suivi des consommables[cite: 28, 30].
+* [cite_start]**Expertise SAP :** Maîtrise des flux critiques (Ordres de fabrication AUFNR, mouvements de stocks) pour lier finance, logistique et production[cite: 33, 35].
+* [cite_start]**Industrialisation :** Remplacement des flux "Shadow IT" manuels par des pipelines automatisés et robustes sur Palantir Foundry[cite: 22, 26].
 
-<p align="center">
-  <strong>Langages de programmation et outils</strong>
+## 📜 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Palantir_Foundry-Data_Engineer_Associate-101115?style=for-the-badge&logo=palantir&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+* [cite_start]**Palantir Foundry Data Engineer Associate** 
+    * [cite_start]*Validité : Février 2026 - Février 2028*[cite: 91].
+    * [cite_start]*ID : 7m448a8gdgw5*[cite: 92].
+
+---
+
+## 🛠️ Tech Stack & Écosystème 2026
+
+### 💻 IDE & Intelligence Artificielle
+<p align="left">
+  <img src="https://img.shields.io/badge/IDE-Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assistant-Claude_4.6_Opus-7C4DFF?style=for-the-badge" />
+</p>
+
+### ⚙️ Data Engineering & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Palantir_Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skywise-002244?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Bibliothèques et frameworks</strong>
-</p>
-
-<p align="center">
+### 📊 Langages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-6E7582?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-2E5D9F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
-<p align="center">
-  <strong>Bases de données</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Data Engineering et Cloud</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
 
 ---
 
-<h2 align="center">🚀 Projets récents</h2>
+## 🚀 Projets Stratégiques
 
-### 🎮 [Toys and Models Database Analysis](https://github.com/AtomCrtr/toys-and-models-analysis)  
-🔍 **Analyse et visualisation** d’une base de données d’un magasin de modèles réduits.  
-📊 **Dashboards interactifs** pour optimiser la gestion des stocks et ventes.  
-🛠️ *Python, SQL, Pandas, Matplotlib, Power BI.*  
+### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/sentinel-gotham)
+**Souveraineté des Données & Ingénierie de Renseignement (Link Analysis)**
+Fusion de l'expertise de terrain gendarmerie et de la Data Engineering pour pallier les limites des systèmes actuels.
+* **Architecture ELT :** Ingestion de sources hétérogènes (Finance, Logistique, Production) vers une ontologie robuste.
+* **Analyse de Liens :** Utilisation de l'Ordre de Fabrication comme pivot central pour créer des indicateurs critiques.
+* **Data Quality :** Élimination du "téléphone arabe de la donnée" par la remontée directe aux sources mères (SAP).
 
-### 🎬 [Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)  
-🎥 **Application de recommandations de films** basée sur IMDb & TMDB.  
-🤖 **Algorithmes ML** (SVD, KNN, Content-Based Filtering) pour suggestions personnalisées.  
-🛠️ *Python, Scikit-Learn, Flask, Streamlit, Pandas, APIs IMDb & TMDB.*  
+### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope)
+**Exploration interactive du Système Solaire.**
+* **Refonte Totale :** Projet réinitialisé en février 2026 pour une architecture plus performante.
+* **Tooling :** Développé intégralement sous **Google Antigravity** avec l'appui de **Claude 4.6 Opus**.
+* **Objectif :** Visualisation dynamique et intégration de données astronomiques en temps réel.
 
-### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)  
-📡 **Analyse des tendances YouTube** (données du 11/02/2025) via l’API YouTube.  
-📊 **Dashboards Power BI** sur les catégories dominantes et créateurs influents.  
-🛠️ *Python, API YouTube, Pandas, Power BI, SQL.*  
-
-### 🛰️ [Spaceship Titanic Kaggle Challenge](https://github.com/votre-repo-spaceship-titanic) *(En cours...)*  
-🌌 **Modélisation prédictive** pour la survie des passagers d’un vaisseau spatial fictif.  
-📊 **Optimisation des modèles ML** (Random Forest, XGBoost, Réseaux de Neurones).  
-🛠️ *Python, Scikit-Learn, XGBoost, Seaborn, Matplotlib, Kaggle.*  
-
-### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope) *(En cours...)*  
-🔭 **Exploration interactive** des planètes du Système solaire avec des données en temps réel.  
-🛰️ **Visualisation et animations dynamiques** via APIs spécialisées.  
-🛠️ *Python, FastAPI, Streamlit, JSON, API NASA.*  
+### 🛠️ [Waterspider & Outils Tactiques](https://github.com/AtomCrtr)
+[cite_start]**Solutions Full-Stack agiles pour le terrain**[cite: 39, 41].
+* [cite_start]**Stack :** Back-end en **Google Apps Script (JS)** et front-end **Looker Studio**[cite: 43, 45].
+* [cite_start]**Impact :** Automatisation du nettoyage et sécurisation des saisies opérateurs pour un pilotage réactif des aléas de production[cite: 45, 48].
 
 ---
 
-<h2 align="center">🌱 Ce que j’apprends actuellement</h2>
-
-🤖 **Machine Learning & Deep Learning** : algorithmes supervisés et non supervisés, réseaux de neurones, feature engineering.  
-
-🛠️ **Data Engineering** : manipulation de données avec **SQL avancé**, structuration et optimisation de bases de données relationnelles.  
-
-🔍 **Analyse et Préparation des Données** : techniques avancées de data wrangling, nettoyage et traitement de grands datasets.  
-
----
-
-<h2 align="center">🎯 Ce que je vais apprendre</h2>
-
-🚀 **Cloud & Big Data** : introduction à **AWS, Google Cloud**, stockage et gestion de données massives avec **BigQuery**.  
-
-⚙️ **Data Engineering avancé** : ETL avec **Apache Airflow, Kafka**, orchestration et gestion de flux de données.  
-
-📡 **MLOps & Déploiement** : industrialisation des modèles, CI/CD, gestion des modèles avec **MLflow & FastAPI**.  
-
-🔬 **Computer Vision & NLP** : exploration avancée du deep learning appliqué à la vision par ordinateur et au traitement du langage naturel.  
-
----
-
-<h2 align="center">🚀 Cyber Stats</h2>
-
+## 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Cyber Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomCrtr&theme=highcontrast&hide_border=true" alt="Neon Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomCrtr&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Neon Languages" />
-</p>
-
 ---
 
-## 📫 Me contacter  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emeline-cartier)  
-📧 **Email** : cartieremeline@outlook.fr
-📧 **Second Email** : feildelemeline@hotmail.fr
+## 📫 Me contacter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeline-cartier)
+📧 **Email** : cartieremeline@outlook.fr | feildelemeline@hotmail.fr
