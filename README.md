@@ -88,12 +88,6 @@ Fusion de l'expertise de terrain gendarmerie et de la Data Engineering.
 
 ---
 
-## 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomCrtr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Cyber Stats" />
-</p>
-
----
 
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeline-cartier)
