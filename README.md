@@ -79,7 +79,7 @@ Fusion de l'expertise de terrain gendarmerie et de la Data Engineering.
 ### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope)
 **Exploration interactive du Système Solaire.**
 * **Refonte Totale :** Projet intégralement repris en février 2026.
-* **Tooling :** Développé sous **Google Antigravity** avec l'appui de **Claude 4.6 Opus**.
+* **Tooling :** Développé sous **Google Antigravity** avec l'appui de **Claude 4.6 Opus** et **Sonnet**. IA Local **Qwen 2.5 Coder**
 
 ### 🛠️ [Waterspider & Outils Tactiques](https://github.com/AtomCrtr)
 **Solutions Full-Stack agiles pour le terrain**.
