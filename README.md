@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer @ Airbus Atlantic</h1>
+<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer </h1>
 
 <p align="center">
   <strong>Ancienne Gendarme ➔ Ingénieure de Données & OSINT</strong><br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🏗️ Expérience Actuelle : Airbus Atlantic (Montoir-de-Bretagne)
+## 🏗️ Expérience Actuelle : Data / Airbus
 Depuis mon arrivée en alternance, j'évolue en **autonomie complète (Sole Contributor)** sur la construction d'une architecture Data & Digitalisation:
 * **Architecture ELT sur Skywise :** Mise en place d'un pipeline industriel complet (Extract, Load, Transform) via **Pipeline Builder** pour le calcul du Coût par MSN.
 * **Expertise SAP :** Maîtrise des flux critiques (Ordres de fabrication AUFNR, mouvements de stocks) pour lier finance, logistique et production.
