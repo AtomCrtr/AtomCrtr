@@ -80,10 +80,6 @@ Fusion de l'expertise de terrain gendarmerie et de la Data Engineering.
 * **Refonte Totale :** Projet intégralement repris en février 2026.
 * **Tooling :** Développé sous **Google Antigravity** avec l'appui de **Claude 4.6 Opus** et **Sonnet**. IA Local **Qwen 2.5 Coder**
 
-### 🛠️ [Waterspider & Outils Tactiques](https://github.com/AtomCrtr)
-**Solutions Full-Stack agiles pour le terrain**.
-* **Stack :** Back-end en **JavaScript (Apps Script)** et front-end **Looker Studio**.
-* **Impact :** Automatisation du nettoyage et sécurisation des saisies pour un pilotage réactif de la production.
 
 ---
 
