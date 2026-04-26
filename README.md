@@ -29,7 +29,6 @@ Depuis mon arrivée en alternance, j'évolue en **autonomie complète (Sole Cont
 ### 💻 IDE & Intelligence Artificielle
 <p align="left">
   <img src="https://img.shields.io/badge/IDE-Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Assistant-Claude_4.6_Opus-7C4DFF?style=for-the-badge" />
 </p>
 
 ### ⚙️ Data Engineering & Cloud
