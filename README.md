@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Emeline Cartier | Data Engineer </h1>
 
 <p align="center">
-  <strong>Ancienne Gendarme ➔ Ingénieure de Données & OSINT</strong><br>
+  <strong> Ingénieure de Données & OSINT</strong><br>
   Fusionner la rigueur de l'enquête de terrain avec la puissance de l'architecture Big Data industrielle.
 </p>
 
