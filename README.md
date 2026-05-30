@@ -1,89 +1,158 @@
-<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer </h1>
+<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer & OSINT</h1>
 
 <p align="center">
-  <strong> Ingénieure de Données & OSINT</strong><br>
-  Fusionner la rigueur de l'enquête de terrain avec la puissance de l'architecture Big Data industrielle.
+  <strong>Data Engineering · Industrial Analytics · OSINT · Knowledge Graphs</strong><br>
+  Construire des pipelines fiables, transformer la donnée en décisions, et relier l'analyse technique à l'intelligence opérationnelle.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emeline-cartier">
+    <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-101115?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT-GEOINT%20%26%20Cyber-4B5563?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏗️ Expérience Actuelle : Data / Airbus
-Depuis mon arrivée en alternance, j'évolue en **autonomie complète (Sole Contributor)** sur la construction d'une architecture Data & Digitalisation:
-* **Architecture ELT sur Skywise :** Mise en place d'un pipeline industriel complet (Extract, Load, Transform) via **Pipeline Builder** pour le calcul du Coût par MSN.
-* **Expertise SAP :** Maîtrise des flux critiques (Ordres de fabrication AUFNR, mouvements de stocks) pour lier finance, logistique et production.
-* **Industrialisation :** Remplacement des flux "Shadow IT" manuels par des pipelines automatisés et robustes sur Palantir Foundry.
+## 👋 À propos
 
-## 📜 Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/Palantir_Foundry-Data_Engineer_Associate-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-</p>
+Je suis **Data Engineer / Data Analyst**, avec un parcours hybride entre **donnée industrielle**, **OSINT**, **renseignement**, **cybersécurité** et **analyse opérationnelle**.
 
-* **Palantir Foundry Data Engineer Associate** 
-    * *Validité : Février 2026 - Février 2028*.
-    * *ID : 7m448a8gdgw5*.
+Mon objectif : créer des systèmes data utiles, robustes et lisibles, capables de connecter des sources dispersées, fiabiliser l'information et aider à la prise de décision.
+
+J'aime particulièrement travailler sur :
+
+- les architectures **ELT / ETL** et la qualité de données ;
+- les tableaux de bord orientés métier et les KPI industriels ;
+- les graphes de connaissance, l'analyse de liens et les modèles **POLE** ;
+- les assistants IA personnels connectés à une mémoire projet ;
+- les projets à la frontière entre **data engineering**, **OSINT** et **défense**.
 
 ---
 
-## 🛠️ Tech Stack & Écosystème 2026
+## 🏗️ Expérience actuelle — Data & Industrie
 
-### 💻 IDE & Intelligence Artificielle
+Je travaille sur des sujets de **data engineering industriel**, avec une attention particulière portée à la structuration des flux, à l'automatisation et à la fiabilisation des analyses métier.
+
+Domaines travaillés :
+
+- conception de pipelines de données et logique **ELT** ;
+- traitement, nettoyage et rapprochement de données issues de systèmes métiers ;
+- analyse de coûts, de flux et d'indicateurs industriels ;
+- industrialisation de traitements auparavant manuels ;
+- vulgarisation des résultats pour les équipes opérationnelles.
+
+---
+
+## 📜 Certifications & formation
+
 <p align="left">
-  <img src="https://img.shields.io/badge/IDE-Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palantir%20Foundry-Data%20Engineer%20Associate-101115?style=for-the-badge&logo=palantir&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-GEOINT-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Analytics%20%26%20Engineering-2563EB?style=for-the-badge" />
 </p>
 
-### ⚙️ Data Engineering & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Palantir_Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+- **Palantir Foundry Data Engineer Associate** — validité 2026–2028
+- **Foundry & AIP Builder Foundations**
+- **Formations OSINT / GEOINT / cyber / renseignement**
+- Formation Data Analyst puis spécialisation Data Engineering
 
-### 📊 Langages & Bibliothèques
+---
+
+## 🛠️ Stack technique
+
+### Data Engineering & Cloud
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Palantir%20Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+### Analyse, IA & visualisation
+
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🗄️ Bases de données & BI
+### Graphes, OSINT & outils projet
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projets Stratégiques
+## 🚀 Projets principaux
 
-### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/sentinel-gotham)
-**Souveraineté des Données & Ingénierie de Renseignement (Link Analysis)**
-Fusion de l'expertise de terrain gendarmerie et de la Data Engineering.
-* **Architecture ELT :** Ingestion massive de sources hétérogènes (Finance, Logistique, Production) vers une ontologie de "Source de Vérité".
-* **Analyse de Liens :** Utilisation de l'Ordre de Fabrication (AUFNR) comme pivot central pour lier l'aspect financier, la matière et l'entité finale.
-* **Data Quality :** Diagnostic et nettoyage des flux pour éliminer les risques d'erreurs liés aux saisies manuelles.
+### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/SENTINEL-GOTHAM)
+
+Plateforme personnelle orientée **OSINT, analyse de liens et second cerveau opérationnel**.
+
+Objectifs du projet :
+
+- structurer des données selon une logique **Source → Clean → Enriched → Ontology** ;
+- construire une mémoire projet connectée à Obsidian ;
+- explorer des graphes de connaissances et des relations entre entités ;
+- préparer un écosystème d'assistant IA personnel pour l'analyse, la recherche et la veille.
 
 ### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope)
-**Exploration interactive du Système Solaire.**
-* **Refonte Totale :** Projet intégralement repris en février 2026.
-* **Tooling :** Développé sous **Google Antigravity** avec l'appui de **Claude 4.6 Opus** et **Sonnet**. IA Local **Qwen 2.5 Coder**
 
+Application Streamlit éducative autour de l'espace et des données scientifiques.
+
+Fonctionnalités principales :
+
+- intégration de données NASA / NOAA ;
+- visualisations interactives ;
+- modules APOD, astéroïdes, Mars Rover, événements terrestres et exoplanètes ;
+- approche pédagogique pour rendre la donnée spatiale plus accessible.
+
+### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
+
+Projet d'analyse exploratoire autour des tendances YouTube.
+
+Compétences mises en avant :
+
+- nettoyage et exploration de données ;
+- analyse de tendances ;
+- visualisation et restitution des insights ;
+- structuration d'un projet data de bout en bout.
 
 ---
 
+## 🧭 Ce que je construis actuellement
+
+Je développe progressivement un écosystème personnel autour de trois axes :
+
+1. **Data Engineering industriel** — pipelines, qualité, automatisation, KPI.
+2. **OSINT & renseignement numérique** — collecte légale, analyse, graphes, veille.
+3. **Assistant IA personnel** — mémoire projet, Obsidian, agents, interface Gotham/JARVIS.
+
+L'objectif long terme est de réunir ces compétences dans un profil rare :
+
+> Data Engineer capable de comprendre les contraintes terrain, les enjeux industriels, la donnée opérationnelle et les usages avancés de l'IA.
+
+---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline--Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emeline-cartier)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emeline-cartier">
+    <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 📧 **Email** : cartieremeline@outlook.fr | feildelemeline@hotmail.fr
