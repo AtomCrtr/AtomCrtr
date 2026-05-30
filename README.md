@@ -1,47 +1,193 @@
-<h1 align="center">👩‍💻 Emeline Cartier | Data Engineer & OSINT</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Data Engineering · Industrial Analytics · OSINT · Knowledge Graphs</strong><br>
-  Construire des pipelines fiables, transformer la donnée en décisions, et relier l'analyse technique à l'intelligence opérationnelle.
+# 👩‍💻 Emeline Cartier  
+### Data Engineer · Data Analyst · OSINT · Intelligence opérationnelle
+
+Transformer des données dispersées en systèmes fiables, lisibles et utiles.  
+Construire des pipelines, automatiser les analyses, connecter les outils métier  
+et développer des projets à la frontière entre **data engineering**, **industrie**, **OSINT** et **IA**.
+
+<a href="https://www.linkedin.com/in/emeline-cartier">
+  <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-Industrial%20Data-101115?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSINT-Knowledge%20Graphs-374151?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Systems-Project%20Memory-6D28D9?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧭 Profil
+
+Je suis **Data Engineer / Data Analyst**, avec un parcours hybride entre :
+
+- **data engineering industriel** ;
+- **analyse de données métier** ;
+- **automatisation de processus** ;
+- **OSINT / GEOINT / cybersécurité / renseignement** ;
+- **graphes de connaissance et analyse de liens** ;
+- **assistants IA personnels et mémoire projet**.
+
+Mon objectif est de construire des systèmes data concrets :  
+des pipelines propres, des tableaux de bord utiles, des automatisations robustes, et des outils capables de transformer une information brute en décision exploitable.
+
+J’aime particulièrement les projets où la donnée doit être comprise dans son contexte réel : terrain, industrie, opérations, logistique, finance, qualité ou renseignement.
+
+---
+
+## 🏗️ Environnement actuel — Data industrielle
+
+Je travaille sur des sujets de **data engineering et d’analytics industriels**, avec une forte proximité métier.
+
+Mes axes principaux :
+
+- structuration de flux de données ;
+- nettoyage, rapprochement et fiabilisation d’informations issues de systèmes métiers ;
+- automatisation de traitements auparavant manuels ;
+- création d’indicateurs opérationnels ;
+- restitution claire via dashboards, analyses et supports métier ;
+- amélioration continue des processus data existants.
+
+Je m’intéresse particulièrement aux environnements où la donnée circule entre plusieurs outils :  
+ERP, fichiers métiers, plateformes cloud, tableurs, dashboards, scripts d’automatisation et bases analytiques.
+
+---
+
+## 🛠️ Stack technique
+
+### Data Engineering, automatisation & plateformes
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Palantir%20Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skywise-Industrial%20Data-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pipeline%20Builder-ELT%20Workflows-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emeline-cartier">
-    <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-101115?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT-GEOINT%20%26%20Cyber-4B5563?style=for-the-badge" />
+### Langages & traitement de données
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### BI, reporting & visualisation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### Web, interfaces & applications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### Bases, graphes & mémoire projet
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-Link%20Analysis-111827?style=for-the-badge" />
+</p>
+
+### OSINT, IA & workflow avancé
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GEOINT-Geospatial%20Intelligence-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Assistant-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI%20Coding%20Assistant-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 👋 À propos
+## 🚀 Projets principaux
 
-Je suis **Data Engineer / Data Analyst**, avec un parcours hybride entre **donnée industrielle**, **OSINT**, **renseignement**, **cybersécurité** et **analyse opérationnelle**.
+### 🔭 [SolarScope](https://github.com/AtomCrtr/SolarScope)
 
-Mon objectif : créer des systèmes data utiles, robustes et lisibles, capables de connecter des sources dispersées, fiabiliser l'information et aider à la prise de décision.
+Application web interactive d’exploration spatiale construite avec **Next.js, React, TypeScript et Three.js**.
 
-J'aime particulièrement travailler sur :
+Ce projet met en avant :
 
-- les architectures **ELT / ETL** et la qualité de données ;
-- les tableaux de bord orientés métier et les KPI industriels ;
-- les graphes de connaissance, l'analyse de liens et les modèles **POLE** ;
-- les assistants IA personnels connectés à une mémoire projet ;
-- les projets à la frontière entre **data engineering**, **OSINT** et **défense**.
+- une architecture frontend moderne avec Next.js ;
+- des visualisations 3D avec Three.js / React Three Fiber ;
+- l’intégration d’API scientifiques ;
+- des modules autour de la NASA, de la NOAA, de l’ISS, des astéroïdes, des exoplanètes et de la météo spatiale ;
+- un assistant IA intégré ;
+- un déploiement orienté produit avec Vercel.
+
+**Stack principale :** Next.js, React, TypeScript, Three.js, APIs NASA/NOAA, Gemini API, Vercel.
 
 ---
 
-## 🏗️ Expérience actuelle — Data & Industrie
+### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/SENTINEL-GOTHAM)
 
-Je travaille sur des sujets de **data engineering industriel**, avec une attention particulière portée à la structuration des flux, à l'automatisation et à la fiabilisation des analyses métier.
+Projet personnel orienté **OSINT, analyse de liens, graphes de connaissance et second cerveau opérationnel**.
 
-Domaines travaillés :
+L’objectif est de structurer des données ouvertes et publiques pour les transformer en information exploitable, traçable et connectée.
 
-- conception de pipelines de données et logique **ELT** ;
-- traitement, nettoyage et rapprochement de données issues de systèmes métiers ;
-- analyse de coûts, de flux et d'indicateurs industriels ;
-- industrialisation de traitements auparavant manuels ;
-- vulgarisation des résultats pour les équipes opérationnelles.
+Axes principaux :
+
+- ingestion de données ouvertes ;
+- logique **Source → Clean → Enriched → Ontology** ;
+- modélisation d’entités et de relations ;
+- analyse de liens ;
+- mémoire projet connectée à Obsidian ;
+- réflexion autour d’un assistant IA personnel pour la recherche, la veille et l’analyse.
+
+**Stack visée :** Python, SQL, Obsidian, graphes, Neo4j, React, Three.js, OSINT, agents IA.
+
+---
+
+### 🎥 [CinéMatch — Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)
+
+Application de recommandation de films basée sur l’analyse de données et le machine learning.
+
+Ce projet met en avant :
+
+- nettoyage et préparation de données ;
+- exploration de bases IMDb / TMDB ;
+- vectorisation TF-IDF ;
+- similarité cosinus / Nearest Neighbors ;
+- interface Streamlit ;
+- approche orientée utilisateur pour produire une recommandation compréhensible.
+
+**Stack principale :** Python, Pandas, Scikit-learn, NLTK, Streamlit, Power BI.
+
+---
+
+### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
+
+Projet d’analyse des tendances YouTube à partir de l’API YouTube Data v3.
+
+Ce projet met en avant :
+
+- extraction de données via API ;
+- préparation et nettoyage avec Python ;
+- analyse de tendances ;
+- création d’indicateurs ;
+- dashboard Power BI.
+
+**Stack principale :** Python, Requests, Pandas, API YouTube, Power BI, DAX.
 
 ---
 
@@ -49,110 +195,46 @@ Domaines travaillés :
 
 <p align="left">
   <img src="https://img.shields.io/badge/Palantir%20Foundry-Data%20Engineer%20Associate-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-GEOINT-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Analytics%20%26%20Engineering-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foundry%20%26%20AIP-Builder%20Foundations-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT%20%7C%20GEOINT%20%7C%20Cyber-Renseignement-374151?style=for-the-badge" />
 </p>
 
-- **Palantir Foundry Data Engineer Associate** — validité 2026–2028
+- **Palantir Foundry Data Engineer Associate**
 - **Foundry & AIP Builder Foundations**
-- **Formations OSINT / GEOINT / cyber / renseignement**
-- Formation Data Analyst puis spécialisation Data Engineering
+- Formations en **OSINT, GEOINT, cyber, renseignement et sécurité numérique**
+- Formation Data Analyst, puis spécialisation Data Engineering
+- Pratique régulière de projets data, automatisation, BI, IA et graphes
 
 ---
 
-## 🛠️ Stack technique
+## 🧠 Ce que je construis
 
-### Data Engineering & Cloud
+Je développe progressivement un écosystème personnel autour de trois piliers :
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Palantir%20Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
+| Pilier | Objectif |
+|---|---|
+| **Data Engineering industriel** | Pipelines fiables, qualité de données, automatisation, KPI |
+| **OSINT & analyse de liens** | Données ouvertes, entités, relations, graphes, veille |
+| **Assistant IA personnel** | Mémoire projet, agents, Obsidian, interface Gotham/JARVIS |
 
-### Analyse, IA & visualisation
+Mon objectif long terme est de construire un profil rare :
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-### Graphes, OSINT & outils projet
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+> Une Data Engineer capable de comprendre les contraintes terrain, les systèmes industriels, les flux de données métier, les méthodes OSINT et les usages avancés de l’IA.
 
 ---
 
-## 🚀 Projets principaux
+## 🎯 Direction actuelle
 
-### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/SENTINEL-GOTHAM)
-
-Plateforme personnelle orientée **OSINT, analyse de liens et second cerveau opérationnel**.
-
-Objectifs du projet :
-
-- structurer des données selon une logique **Source → Clean → Enriched → Ontology** ;
-- construire une mémoire projet connectée à Obsidian ;
-- explorer des graphes de connaissances et des relations entre entités ;
-- préparer un écosystème d'assistant IA personnel pour l'analyse, la recherche et la veille.
-
-### 🪐 [SolarScope](https://github.com/AtomCrtr/SolarScope)
-
-Application Streamlit éducative autour de l'espace et des données scientifiques.
-
-Fonctionnalités principales :
-
-- intégration de données NASA / NOAA ;
-- visualisations interactives ;
-- modules APOD, astéroïdes, Mars Rover, événements terrestres et exoplanètes ;
-- approche pédagogique pour rendre la donnée spatiale plus accessible.
-
-### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
-
-Projet d'analyse exploratoire autour des tendances YouTube.
-
-Compétences mises en avant :
-
-- nettoyage et exploration de données ;
-- analyse de tendances ;
-- visualisation et restitution des insights ;
-- structuration d'un projet data de bout en bout.
+- Renforcer mes compétences en **data engineering industriel**.
+- Développer des projets portfolio solides et démontrables.
+- Construire un écosystème personnel **Gotham / JARVIS** autour de la donnée, de l’OSINT et de l’IA.
+- Explorer les graphes de connaissance, les agents IA, les dashboards intelligents et l’automatisation métier.
+- Relier les outils du quotidien — **Google Sheets, Apps Script, Looker Studio, Power BI, Python, Skywise, Foundry** — dans des workflows plus propres et plus performants.
 
 ---
 
-## 🧭 Ce que je construis actuellement
+<div align="center">
 
-Je développe progressivement un écosystème personnel autour de trois axes :
+### Data Engineering · Industrial Analytics · OSINT · AI-assisted Knowledge Systems
 
-1. **Data Engineering industriel** — pipelines, qualité, automatisation, KPI.
-2. **OSINT & renseignement numérique** — collecte légale, analyse, graphes, veille.
-3. **Assistant IA personnel** — mémoire projet, Obsidian, agents, interface Gotham/JARVIS.
-
-L'objectif long terme est de réunir ces compétences dans un profil rare :
-
-> Data Engineer capable de comprendre les contraintes terrain, les enjeux industriels, la donnée opérationnelle et les usages avancés de l'IA.
-
----
-
-## 📫 Me contacter
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/emeline-cartier">
-    <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-📧 **Email** : cartieremeline@outlook.fr | feildelemeline@hotmail.fr
+</div>
