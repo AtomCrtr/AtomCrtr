@@ -141,18 +141,7 @@ Ce projet met en avant :
 
 ### 🕵️ [MuninOS](https://github.com/AtomCrtr/MuninOS)
 
-Projet personnel orienté **OSINT, analyse de liens, graphes de connaissance et second cerveau opérationnel**.
-
-L’objectif est de structurer des données ouvertes et publiques pour les transformer en information exploitable, traçable et connectée.
-
-Axes principaux :
-
-- ingestion de données ouvertes ;
-- logique **Source → Clean → Enriched → Ontology** ;
-- modélisation d’entités et de relations ;
-- analyse de liens ;
-- mémoire projet connectée à Obsidian ;
-- réflexion autour d’un assistant IA personnel pour la recherche, la veille et l’analyse.
+MuninOS transforme un vault Obsidian en graphe 3D interactif, puis empile autour : une interface cockpit, de l'OSINT légal passif, une mémoire d'agents et un raisonnement local. Le tout local-first, read-only et portfolio-clean — chaque mode visible change une donnée, un focus ou une interprétation (jamais de décoration vide).
 
 **Stack visée :** Python, SQL, Obsidian, graphes, Neo4j, React, Three.js, OSINT, agents IA.
 
