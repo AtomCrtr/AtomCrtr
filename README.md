@@ -139,7 +139,7 @@ Ce projet met en avant :
 
 ---
 
-### 🕵️ [SENTINEL-GOTHAM](https://github.com/AtomCrtr/SENTINEL-GOTHAM)
+### 🕵️ [MuninOS](https://github.com/AtomCrtr/MuninOS)
 
 Projet personnel orienté **OSINT, analyse de liens, graphes de connaissance et second cerveau opérationnel**.
 
