@@ -143,6 +143,8 @@ Ce projet met en avant :
 
 MuninOS transforme un vault Obsidian en graphe 3D interactif, puis empile autour : une interface cockpit, de l'OSINT légal passif, une mémoire d'agents et un raisonnement local. Le tout local-first, read-only et portfolio-clean — chaque mode visible change une donnée, un focus ou une interprétation (jamais de décoration vide).
 
+Munin est le corbeau-mémoire d'Odin : il survole le monde, observe et rapporte — recon + mémoire, au service du veilleur. Jamais une collecte offensive.
+
 **Stack visée :** Python, SQL, Obsidian, graphes, Neo4j, React, Three.js, OSINT, agents IA.
 
 ---
