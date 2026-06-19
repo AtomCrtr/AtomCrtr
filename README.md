@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Emeline Cartier  
+# 👩‍💻 Emeline C 
 ### Data Engineer · Data Analyst · OSINT · Intelligence opérationnelle
 
 Transformer des données dispersées en systèmes fiables, lisibles et utiles.  
