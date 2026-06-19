@@ -7,10 +7,6 @@ Transformer des données dispersées en systèmes fiables, lisibles et utiles.
 Construire des pipelines, automatiser les analyses, connecter les outils métier  
 et développer des projets à la frontière entre **data engineering**, **industrie**, **OSINT** et **IA**.
 
-<a href="https://www.linkedin.com/in/emeline-cartier">
-  <img src="https://img.shields.io/badge/LinkedIn-Emeline%20Cartier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <img src="https://img.shields.io/badge/Data%20Engineering-Industrial%20Data-101115?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OSINT-Knowledge%20Graphs-374151?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Systems-Project%20Memory-6D28D9?style=for-the-badge" />
