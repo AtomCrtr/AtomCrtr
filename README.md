@@ -137,11 +137,17 @@ Ce projet met en avant :
 
 ### 🕵️ [MuninOS](https://github.com/AtomCrtr/MuninOS)
 
-MuninOS transforme un vault Obsidian en graphe 3D interactif, puis empile autour : une interface cockpit, de l'OSINT légal passif, une mémoire d'agents et un raisonnement local. Le tout local-first, read-only et portfolio-clean — chaque mode visible change une donnée, un focus ou une interprétation (jamais de décoration vide).
+Poste de travail OSINT **passif, local-first et défensif**. MuninOS transforme un vault Obsidian en **graphe 3D interactif** (un « cerveau IA » spatial), puis empile autour un cockpit d'enquête, une méthodologie OSINT légale, un **analyste local déterministe** (zéro LLM externe, zéro collecte active) et une mémoire d'agents.
 
-Munin est le corbeau-mémoire d'Odin : il survole le monde, observe et rapporte — recon + mémoire, au service du veilleur. Jamais une collecte offensive.
+- **Cerveau IA 3D** — graphe mémoire en Three.js / react-force-graph, rotation spatiale, carte mentale par catégories.
+- **OSINT passif & légal** — méthodologie en 10 étapes, workflows par type d'enquête, Bible d'outils + annuaire ; chaque fiche rappelle son cadre légal. Aucun outil n'est exécuté depuis l'interface.
+- **Analyste local** — questions/réponses déterministes sur le graphe (hubs, voisins, pivots), read-only, sans appel externe.
+- **CTF Knowledge Core** — 39 writeups *method-only* (flags omis) pour s'entraîner : 404CTF, Bleuet de France, Shutlock.
+- **Sûreté par conception** — Memory API FastAPI **GET-only**, contrat *read-only / no-external-call / no-active-collection* vérifié par un **gate de 31 contrôles en CI**.
 
-**Stack visée :** Python, SQL, Obsidian, graphes, Neo4j, React, Three.js, OSINT, agents IA.
+Munin est le corbeau-mémoire d'Odin : il survole, observe et rapporte — *recon + mémoire*, jamais une collecte offensive.
+
+**Stack :** Python · FastAPI · React · Vite · Three.js · Obsidian · DuckDB · GitHub Actions. *Local-first, read-only, portfolio-clean.*
 
 ---
 
@@ -202,7 +208,7 @@ Je développe progressivement un écosystème personnel autour de trois piliers 
 |---|---|
 | **Data Engineering industriel** | Pipelines fiables, qualité de données, automatisation, KPI |
 | **OSINT & analyse de liens** | Données ouvertes, entités, relations, graphes, veille |
-| **Assistant IA personnel** | Mémoire projet, agents, Obsidian, interface Gotham/JARVIS |
+| **Assistant IA personnel** | Mémoire projet, agents, Obsidian, cockpit MuninOS / JARVIS |
 
 Mon objectif long terme est de construire un profil rare :
 
@@ -214,7 +220,7 @@ Mon objectif long terme est de construire un profil rare :
 
 - Renforcer mes compétences en **data engineering industriel**.
 - Développer des projets portfolio solides et démontrables.
-- Construire un écosystème personnel **Gotham / JARVIS** autour de la donnée, de l’OSINT et de l’IA.
+- Construire un écosystème personnel **MuninOS / JARVIS** autour de la donnée, de l’OSINT et de l’IA.
 - Explorer les graphes de connaissance, les agents IA, les dashboards intelligents et l’automatisation métier.
 - Relier les outils du quotidien — **Google Sheets, Apps Script, Looker Studio, Power BI, Python, Skywise, Foundry** — dans des workflows plus propres et plus performants.
 
