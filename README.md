@@ -3,231 +3,122 @@
 # 👩‍💻 Emeline C 
 ### Data Engineer · Data Analyst · OSINT · Intelligence opérationnelle
 
-Transformer des données dispersées en systèmes fiables, lisibles et utiles.  
-Construire des pipelines, automatiser les analyses, connecter les outils métier  
-et développer des projets à la frontière entre **data engineering**, **industrie**, **OSINT** et **IA**.
+<div align="center">Emeline C.
 
-<img src="https://img.shields.io/badge/Data%20Engineering-Industrial%20Data-101115?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OSINT-Knowledge%20Graphs-374151?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Systems-Project%20Memory-6D28D9?style=for-the-badge" />
+Data Engineer · Industrial Analytics · OSINT
 
-</div>
+Je construis des solutions data utiles aux métiers :
+pipelines, automatisations, analyses opérationnelles et applications permettant de transformer des données dispersées en informations fiables.
 
----
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Emeline_Cartier-0A66C2?style=flat-square&logo=linkedin)" (https://www.linkedin.com/in/emeline-cartier/)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## 🧭 Profil
+</div>---
 
-Je suis **Data Engineer / Data Analyst**, avec un parcours hybride entre :
+À propos
 
-- **data engineering industriel** ;
-- **analyse de données métier** ;
-- **automatisation de processus** ;
-- **OSINT / GEOINT / cybersécurité / renseignement** ;
-- **graphes de connaissance et analyse de liens** ;
-- **assistants IA personnels et mémoire projet**.
+Data Engineer / Data Analyst en spécialisation Data Engineering, je travaille sur des problématiques liées à la donnée industrielle et opérationnelle.
 
-Mon objectif est de construire des systèmes data concrets :  
-des pipelines propres, des tableaux de bord utiles, des automatisations robustes, et des outils capables de transformer une information brute en décision exploitable.
+J’apprécie particulièrement les projets qui demandent de :
 
-J’aime particulièrement les projets où la donnée doit être comprise dans son contexte réel : terrain, industrie, opérations, logistique, finance, qualité ou renseignement.
+- structurer et fiabiliser des données issues de plusieurs sources ;
+- automatiser des traitements auparavant manuels ;
+- construire des indicateurs compréhensibles par les métiers ;
+- concevoir des outils simples à utiliser et faciles à maintenir ;
+- explorer les liens entre data engineering, OSINT et analyse de relations.
 
----
-
-## 🏗️ Environnement actuel — Data industrielle
-
-Je travaille sur des sujets de **data engineering et d’analytics industriels**, avec une forte proximité métier.
-
-Mes axes principaux :
-
-- structuration de flux de données ;
-- nettoyage, rapprochement et fiabilisation d’informations issues de systèmes métiers ;
-- automatisation de traitements auparavant manuels ;
-- création d’indicateurs opérationnels ;
-- restitution claire via dashboards, analyses et supports métier ;
-- amélioration continue des processus data existants.
-
-Je m’intéresse particulièrement aux environnements où la donnée circule entre plusieurs outils :  
-ERP, fichiers métiers, plateformes cloud, tableurs, dashboards, scripts d’automatisation et bases analytiques.
+Mon parcours précédent sur le terrain m’a appris à accorder une grande importance au contexte, à la fiabilité de l’information et à son utilité réelle.
 
 ---
 
-## 🛠️ Stack technique
+Projets sélectionnés
 
-### Data Engineering, automatisation & plateformes
+🔭 "SolarScope" (https://github.com/AtomCrtr/SolarScope)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Palantir%20Foundry-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skywise-Industrial%20Data-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pipeline%20Builder-ELT%20Workflows-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
+Application web d’exploration spatiale développée avec Next.js, React, TypeScript et Three.js.
 
-### Langages & traitement de données
+Ce que le projet démontre :
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+- intégration de plusieurs API scientifiques ;
+- visualisations interactives en 3D ;
+- traitement de données NASA et NOAA ;
+- développement d’une application complète ;
+- sécurisation des clés API côté serveur ;
+- déploiement continu sur Vercel.
 
-### BI, reporting & visualisation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### Web, interfaces & applications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### Bases, graphes & mémoire projet
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knowledge%20Graph-Link%20Analysis-111827?style=for-the-badge" />
-</p>
-
-### OSINT, IA & workflow avancé
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GEOINT-Geospatial%20Intelligence-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Assistant-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-AI%20Coding%20Assistant-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20AI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+"Voir l’application" (https://solar-scope.vercel.app)
+"Next.js" "TypeScript" "React" "Three.js" "API" "Vercel"
 
 ---
 
-## 🚀 Projets principaux
+🎥 "CinéMatch" (https://github.com/AtomCrtr/movie-recommendation-app)
 
-### 🔭 [SolarScope](https://github.com/AtomCrtr/SolarScope)
+Moteur de recommandation de films réalisé à partir de données IMDb et TMDB pour répondre aux besoins d’un cinéma local.
 
-Application web interactive d’exploration spatiale construite avec **Next.js, React, TypeScript et Three.js**.
+Ce que le projet démontre :
 
-Ce projet met en avant :
+- préparation et nettoyage de données ;
+- traitement de texte avec TF-IDF ;
+- recommandations par similarité cosinus ;
+- exploration de données avec Python et DuckDB ;
+- création d’une interface Streamlit ;
+- restitution des résultats dans un contexte métier.
 
-- une architecture frontend moderne avec Next.js ;
-- des visualisations 3D avec Three.js / React Three Fiber ;
-- l’intégration d’API scientifiques ;
-- des modules autour de la NASA, de la NOAA, de l’ISS, des astéroïdes, des exoplanètes et de la météo spatiale ;
-- un assistant IA intégré ;
-- un déploiement orienté produit avec Vercel.
-
-**Stack principale :** Next.js, React, TypeScript, Three.js, APIs NASA/NOAA, Gemini API, Vercel.
+"Python" "Pandas" "DuckDB" "Scikit-learn" "Streamlit"
 
 ---
 
-### 🕵️ [MuninOS](https://github.com/AtomCrtr/MuninOS)
+📊 "YouTube Trends Analysis" (https://github.com/AtomCrtr/youtube-trends-analysis)
 
-Poste de travail OSINT **passif, local-first et défensif**. MuninOS transforme un vault Obsidian en **graphe 3D interactif** (un « cerveau IA » spatial), puis empile autour un cockpit d'enquête, une méthodologie OSINT légale, un **analyste local déterministe** (zéro LLM externe, zéro collecte active) et une mémoire d'agents.
+Pipeline d’extraction et d’analyse des vidéos populaires à partir de l’API YouTube Data v3.
 
-- **Cerveau IA 3D** — graphe mémoire en Three.js / react-force-graph, rotation spatiale, carte mentale par catégories.
-- **OSINT passif & légal** — méthodologie en 10 étapes, workflows par type d'enquête, Bible d'outils + annuaire ; chaque fiche rappelle son cadre légal. Aucun outil n'est exécuté depuis l'interface.
-- **Analyste local** — questions/réponses déterministes sur le graphe (hubs, voisins, pivots), read-only, sans appel externe.
-- **CTF Knowledge Core** — 39 writeups *method-only* (flags omis) pour s'entraîner : 404CTF, Bleuet de France, Shutlock.
-- **Sûreté par conception** — Memory API FastAPI **GET-only**, contrat *read-only / no-external-call / no-active-collection* vérifié par un **gate de 31 contrôles en CI**.
+Ce que le projet démontre :
 
-Munin est le corbeau-mémoire d'Odin : il survole, observe et rapporte — *recon + mémoire*, jamais une collecte offensive.
-
-**Stack :** Python · FastAPI · React · Vite · Three.js · Obsidian · DuckDB · GitHub Actions. *Local-first, read-only, portfolio-clean.*
-
----
-
-### 🎥 [CinéMatch — Movie Recommendation App](https://github.com/AtomCrtr/movie-recommendation-app)
-
-Application de recommandation de films basée sur l’analyse de données et le machine learning.
-
-Ce projet met en avant :
-
-- nettoyage et préparation de données ;
-- exploration de bases IMDb / TMDB ;
-- vectorisation TF-IDF ;
-- similarité cosinus / Nearest Neighbors ;
-- interface Streamlit ;
-- approche orientée utilisateur pour produire une recommandation compréhensible.
-
-**Stack principale :** Python, Pandas, Scikit-learn, NLTK, Streamlit, Power BI.
-
----
-
-### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
-
-Projet d’analyse des tendances YouTube à partir de l’API YouTube Data v3.
-
-Ce projet met en avant :
-
-- extraction de données via API ;
-- préparation et nettoyage avec Python ;
-- analyse de tendances ;
+- collecte de données via API ;
+- préparation et structuration avec Python ;
 - création d’indicateurs ;
-- dashboard Power BI.
+- analyse des tendances et des catégories ;
+- réalisation d’un dashboard Power BI.
 
-**Stack principale :** Python, Requests, Pandas, API YouTube, Power BI, DAX.
-
----
-
-## 📜 Certifications & formation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Palantir%20Foundry-Data%20Engineer%20Associate-101115?style=for-the-badge&logo=palantir&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry%20%26%20AIP-Builder%20Foundations-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT%20%7C%20GEOINT%20%7C%20Cyber-Renseignement-374151?style=for-the-badge" />
-</p>
-
-- **Palantir Foundry Data Engineer Associate**
-- **Foundry & AIP Builder Foundations**
-- Formations en **OSINT, GEOINT, cyber, renseignement et sécurité numérique**
-- Formation Data Analyst, puis spécialisation Data Engineering
-- Pratique régulière de projets data, automatisation, BI, IA et graphes
+"Python" "API YouTube" "Pandas" "Power BI" "DAX"
 
 ---
 
-## 🧠 Ce que je construis
+Compétences principales
 
-Je développe progressivement un écosystème personnel autour de trois piliers :
-
-| Pilier | Objectif |
-|---|---|
-| **Data Engineering industriel** | Pipelines fiables, qualité de données, automatisation, KPI |
-| **OSINT & analyse de liens** | Données ouvertes, entités, relations, graphes, veille |
-| **Assistant IA personnel** | Mémoire projet, agents, Obsidian, cockpit MuninOS / JARVIS |
-
-Mon objectif long terme est de construire un profil rare :
-
-> Une Data Engineer capable de comprendre les contraintes terrain, les systèmes industriels, les flux de données métier, les méthodes OSINT et les usages avancés de l’IA.
+Domaine| Outils et pratiques
+Data Engineering| Python, SQL, Pandas, PySpark, pipelines ELT, qualité des données
+Bases de données| PostgreSQL, DuckDB, modélisation et transformations
+Business Intelligence| Power BI, DAX, Looker Studio, indicateurs opérationnels
+Automatisation| Python, Google Apps Script, traitements planifiés
+Applications data| Streamlit, Next.js, React, TypeScript
+Analyse avancée| OSINT passif, graphes de connaissance, analyse de liens
 
 ---
 
-## 🎯 Direction actuelle
+Formation et certifications
 
-- Renforcer mes compétences en **data engineering industriel**.
-- Développer des projets portfolio solides et démontrables.
-- Construire un écosystème personnel **MuninOS / JARVIS** autour de la donnée, de l’OSINT et de l’IA.
-- Explorer les graphes de connaissance, les agents IA, les dashboards intelligents et l’automatisation métier.
-- Relier les outils du quotidien — **Google Sheets, Apps Script, Looker Studio, Power BI, Python, Skywise, Foundry** — dans des workflows plus propres et plus performants.
+- Palantir Foundry Data Engineer Associate
+- Foundry & AIP Builder Foundations
+- Formation Data Analyst
+- Spécialisation Data Engineering
+- Formations complémentaires en OSINT, GEOINT, cybersécurité et renseignement numérique
 
 ---
 
-<div align="center">
+Actuellement
 
-### Data Engineering · Industrial Analytics · OSINT · AI-assisted Knowledge Systems
+Je poursuis ma spécialisation en Data Engineering industriel tout en développant des projets personnels autour :
+
+- de la fiabilisation des flux de données ;
+- de l’automatisation métier ;
+- des graphes de connaissance ;
+- de l’analyse de données ouvertes ;
+- des applications data utilisables en conditions réelles.
+
+<div align="center">Construire moins de démonstrations isolées, mais davantage de systèmes fiables et utiles.
 
 </div>
