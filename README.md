@@ -5,30 +5,11 @@
 
 *Transformer des données dispersées en systèmes fiables, lisibles et utiles.*
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeline_Cartier-0A66C2?style=flat-square&logo=linkedin)
-
-](https://www.linkedin.com/in/emeline-cartier/)
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-
 
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-
-
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-
-
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 
 
 </div>
