@@ -1,12 +1,6 @@
 <div align="center">
 
 # 👩‍💻 Emeline C 
-### Data Engineer · Data Analyst · OSINT · Intelligence opérationnelle
-
-<div align="center">
-
-# Emeline C.
-
 ### Data Engineer — Données industrielles & analytics opérationnels
 
 *Transformer des données dispersées en systèmes fiables, lisibles et utiles.*
