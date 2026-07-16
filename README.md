@@ -5,13 +5,6 @@
 
 *Transformer des données dispersées en systèmes fiables, lisibles et utiles.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-
-
 </div>
 
 ---
