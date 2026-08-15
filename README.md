@@ -40,7 +40,7 @@ Environnement personnel local-first qui transforme un vault Obsidian en graphe d
 
 `Python` `FastAPI` `Obsidian` `React` `Vite` `Three.js` `Graphes de connaissance`
 
-### ✈️ Aerospace Resilience Casebook · en cours, dépôt privé
+### ✈️ [Aerospace Resilience Casebook](https://github.com/AtomCrtr/aerospace-resilience-casebook) · en cours, accès privé
 
 Étude d'intelligence stratégique de bout en bout sur la résilience d'une chaîne d'approvisionnement aéronautique européenne à l'horizon 2030, réalisée exclusivement à partir de sources ouvertes.
 
