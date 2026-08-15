@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👩‍💻 Emeline Cartier
-### Data Engineer — pipelines, applications data & analytics
+### Data Engineer — données industrielles, produits data & intelligence opérationnelle
 
 *Je transforme des données dispersées en systèmes fiables, compréhensibles et utiles aux décisions.*
 
@@ -15,7 +15,8 @@
 
 - des pipelines reproductibles qui structurent, historisent et contrôlent les données ;
 - des indicateurs et applications conçus pour des utilisateurs métier ;
-- des produits data maintenables, testés et documentés.
+- des produits data maintenables, testés et documentés ;
+- des graphes de connaissance et analyses stratégiques traçables.
 
 Mon expérience de terrain m'a appris à partir du contexte réel, à rendre les limites visibles et à privilégier la fiabilité du livrable autant que sa performance technique.
 
@@ -31,10 +32,34 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 `Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
+### 🐦‍⬛ MuninOS · dépôt privé
+
+Environnement personnel local-first qui transforme un vault Obsidian en graphe de connaissance 3D et l'entoure d'une API mémoire en lecture seule, d'une interface d'investigation passive et d'un moteur de raisonnement local.
+
+**Ce que le projet démontre** : architecture multi-composants, modélisation de connaissances, recherche locale, contrats read-only, protection de la vie privée, validation automatisée et documentation vivante.
+
+`Python` `FastAPI` `Obsidian` `React` `Vite` `Three.js` `Graphes de connaissance`
+
+### ✈️ Aerospace Resilience Casebook · en cours, dépôt privé
+
+Étude d'intelligence stratégique de bout en bout sur la résilience d'une chaîne d'approvisionnement aéronautique européenne à l'horizon 2030, réalisée exclusivement à partir de sources ouvertes.
+
+**Ce que le projet démontre** : cadrage d'un besoin décisionnel, plan de recherche, registre de sources évaluées, pipeline reproductible, analyse structurée, niveaux de confiance, contradictions, scénarios et options de résilience.
+
+`Python` `Données ouvertes` `Analyse structurée` `Scénarios` `Traçabilité des sources`
+
 ### Autres projets publics
 
 - 🎬 **[CinéMatch](https://github.com/AtomCrtr/movie-recommendation-app)** — recommandation de films à partir de données IMDb et TMDB, TF-IDF et similarité cosinus, restituée dans Streamlit.
 - 📊 **[YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)** — extraction via l'API YouTube Data v3 et dashboard Power BI avec mesures DAX.
+
+---
+
+## Expérience en environnement industriel
+
+Je développe également des pipelines, dashboards, automatisations et outils de transmission en contexte industriel. Ces travaux couvrent l'historisation des données, les contrôles qualité, la catégorisation assistée, le suivi d'indicateurs opérationnels et la génération reproductible de livrables décisionnels.
+
+Les dépôts, données et métriques métier concernés restent privés. Les technologies utilisées incluent **Palantir Foundry / Skywise, Python, SQL, Streamlit, Power BI, Looker Studio, Google Sheets et Google Apps Script**.
 
 ---
 
@@ -47,6 +72,7 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 | BI & automatisation | Power BI, DAX, Looker Studio, Google Sheets, Google Apps Script, indicateurs opérationnels |
 | Qualité logicielle | Git, GitHub Actions, tests unitaires et E2E, Playwright, accessibilité, documentation, CI/CD |
 | Analyse & machine learning | Scikit-learn, TF-IDF, similarité cosinus, exploration et visualisation de données |
+| Intelligence & connaissance | OSINT passif, évaluation de sources, analyse de liens, scénarios, graphes de connaissance, Obsidian |
 
 **En cours d'approfondissement** : PySpark, PostgreSQL, Neo4j et FastAPI.
 
@@ -64,8 +90,8 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 ## Actuellement
 
-- évolution de SolarScope comme produit éducatif fiable et accessible ;
-- approfondissement du Data Engineering et de la qualité logicielle ;
+- finalisation d'un casebook d'intelligence stratégique aéronautique ;
+- consolidation de MuninOS comme environnement local-first et read-only ;
 - développement de produits data robustes pour des usages réels.
 
 ---
