@@ -3,9 +3,9 @@
 # 👩‍💻 Emeline Cartier
 ### Data Engineer — données industrielles, produits data & intelligence opérationnelle
 
-*Je transforme des données dispersées en systèmes fiables, compréhensibles et utiles aux décisions.*
+*Je transforme des données dispersées — métier ou sources ouvertes — en systèmes fiables, compréhensibles et utiles aux décisions.*
 
-<sub>I build reliable data products, from ingestion and quality controls to decision-ready applications.</sub>
+<sub>I build reliable data products and traceable intelligence workflows, from raw sources to decision-ready systems.</sub>
 
 </div>
 
@@ -18,7 +18,15 @@
 - des produits data maintenables, testés et documentés ;
 - des graphes de connaissance et analyses stratégiques traçables.
 
-Mon expérience de terrain m'a appris à partir du contexte réel, à rendre les limites visibles et à privilégier la fiabilité du livrable autant que sa performance technique.
+Ancienne gendarme devenue Data Engineer en environnement industriel, je combine culture du terrain, ingénierie des données et méthodes du renseignement en sources ouvertes. Cette double culture m'a appris à partir du besoin réel, à rendre les limites visibles et à privilégier la fiabilité du livrable autant que sa performance technique.
+
+---
+
+## OSINT & intelligence
+
+J'utilise l'OSINT comme une **discipline d'analyse au service de la décision** : formuler une question, construire un plan de recherche, collecter passivement, évaluer et recouper les sources, tracer les preuves, expliciter les contradictions et les inconnues, puis restituer une conclusion exploitable.
+
+Cette pratique se prolonge dans le GEOINT, l'analyse de liens, les graphes de connaissance et la construction de scénarios. Elle reste légale, passive, documentée et soumise à validation humaine.
 
 ---
 
@@ -32,14 +40,6 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 `Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
-### 🐦‍⬛ MuninOS · dépôt privé
-
-Environnement personnel local-first qui transforme un vault Obsidian en graphe de connaissance 3D et l'entoure d'une API mémoire en lecture seule, d'une interface d'investigation passive et d'un moteur de raisonnement local.
-
-**Ce que le projet démontre** : architecture multi-composants, modélisation de connaissances, recherche locale, contrats read-only, protection de la vie privée, validation automatisée et documentation vivante.
-
-`Python` `FastAPI` `Obsidian` `React` `Vite` `Three.js` `Graphes de connaissance`
-
 ### ✈️ [Aerospace Resilience Casebook](https://github.com/AtomCrtr/aerospace-resilience-casebook) · en cours, accès privé
 
 Étude d'intelligence stratégique de bout en bout sur la résilience d'une chaîne d'approvisionnement aéronautique européenne à l'horizon 2030, réalisée exclusivement à partir de sources ouvertes.
@@ -47,6 +47,14 @@ Environnement personnel local-first qui transforme un vault Obsidian en graphe d
 **Ce que le projet démontre** : cadrage d'un besoin décisionnel, plan de recherche, registre de sources évaluées, pipeline reproductible, analyse structurée, niveaux de confiance, contradictions, scénarios et options de résilience.
 
 `Python` `Données ouvertes` `Analyse structurée` `Scénarios` `Traçabilité des sources`
+
+### 🐦‍⬛ [MuninOS](https://github.com/AtomCrtr/MuninOS) · accès privé
+
+Environnement personnel local-first qui transforme un vault Obsidian en graphe de connaissance 3D et l'entoure d'une API mémoire en lecture seule, d'une interface d'investigation passive et d'un moteur de raisonnement local.
+
+**Ce que le projet démontre** : architecture multi-composants, modélisation de connaissances, recherche locale, contrats read-only, protection de la vie privée, validation automatisée et documentation vivante.
+
+`Python` `FastAPI` `Obsidian` `React` `Vite` `Three.js` `Graphes de connaissance`
 
 ### Autres projets publics
 
@@ -72,7 +80,8 @@ Les dépôts, données et métriques métier concernés restent privés. Les tec
 | BI & automatisation | Power BI, DAX, Looker Studio, Google Sheets, Google Apps Script, indicateurs opérationnels |
 | Qualité logicielle | Git, GitHub Actions, tests unitaires et E2E, Playwright, accessibilité, documentation, CI/CD |
 | Analyse & machine learning | Scikit-learn, TF-IDF, similarité cosinus, exploration et visualisation de données |
-| Intelligence & connaissance | OSINT passif, évaluation de sources, analyse de liens, scénarios, graphes de connaissance, Obsidian |
+| OSINT & intelligence | Cycle du renseignement, recherche passive, évaluation et recoupement des sources, traçabilité des preuves, analyse de liens, GEOINT, scénarios |
+| Connaissance & raisonnement | Graphes de connaissance, Obsidian, recherche locale, structuration entités–preuves–hypothèses, validation humaine |
 
 **En cours d'approfondissement** : PySpark, PostgreSQL, Neo4j et FastAPI.
 
@@ -80,11 +89,21 @@ Les dépôts, données et métriques métier concernés restent privés. Les tec
 
 ## Certifications et formation
 
-- **Palantir Foundry Data Engineer Associate**
-- **Foundry & AIP Builder Foundations**
-- Formation Data Analyst
-- Spécialisation Data Engineering
-- Formations complémentaires en OSINT, GEOINT, cybersécurité, renseignement et sécurité numérique
+**Data Engineering & analyse**
+
+- **Palantir Foundry Data Engineer Associate** — 2026
+- **Foundry & AIP Builder Foundations** — 2026
+- **Parcours Data Engineer** — DataScientest, certificat Mines Paris – PSL Executive Education, en cours
+- **Data Analyst, RNCP niveau 6** — Wild Code School, 2025
+- **Quantitative Techniques** — Columbia University, 2025
+- **Databases & SQL for Data Science** et **Python for Data Science, AI & Development** — IBM, 2025
+
+**OSINT, GEOINT & renseignement**
+
+- **Open-source Intelligence** — Basel Institute on Governance / ICAR, 2026
+- **OSINT et GEOINT : pratiques du renseignement** — Institut d'études de géopolitique appliquée (IEGA), 2026
+- **Cybersécurité, renseignement et menaces terroristes** — IEGA, 2026
+- **GEOINT, cyberguerre, IA et OSINT** — IEGA, 2026
 
 ---
 
