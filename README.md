@@ -1,65 +1,40 @@
 <div align="center">
 
-# 👩‍💻 Emeline C 
-### Data Engineer — Données industrielles & analytics opérationnels
+# 👩‍💻 Emeline Cartier
+### Data Engineer — pipelines, applications data & analytics
 
-*Transformer des données dispersées en systèmes fiables, lisibles et utiles.*
+*Je transforme des données dispersées en systèmes fiables, compréhensibles et utiles aux décisions.*
+
+<sub>I build reliable data products, from ingestion and quality controls to decision-ready applications.</sub>
 
 </div>
 
 ---
 
-## À propos
+## Ce que je construis
 
-Data Engineer en spécialisation sur la donnée industrielle et opérationnelle, je construis des solutions data utiles aux métiers : pipelines, automatisations, indicateurs et applications qui transforment des données dispersées en informations fiables.
+- des pipelines reproductibles qui structurent, historisent et contrôlent les données ;
+- des indicateurs et applications conçus pour des utilisateurs métier ;
+- des produits data maintenables, testés et documentés.
 
-Ce qui guide mon travail :
-
-- structurer et fiabiliser des données issues de plusieurs systèmes ;
-- automatiser des traitements auparavant manuels ;
-- construire des indicateurs compréhensibles par les métiers ;
-- concevoir des outils simples à utiliser et faciles à maintenir ;
-- explorer les liens entre data engineering, OSINT passif et graphes de connaissance.
-
-Mon parcours précédent sur le terrain m'a appris à accorder une grande importance au contexte métier, à la fiabilité de l'information et à la valeur concrète des livrables.
+Mon expérience de terrain m'a appris à partir du contexte réel, à rendre les limites visibles et à privilégier la fiabilité du livrable autant que sa performance technique.
 
 ---
 
 ## Projets sélectionnés
 
-### 🔭 [SolarScope](https://github.com/AtomCrtr/SolarScope)
+### 🔭 [SolarScope](https://github.com/AtomCrtr/SolarScope) · [application en ligne](https://solar-scope.vercel.app)
 
-Application web d'exploration spatiale : système solaire 3D, suivi de l'ISS en temps réel, météo spatiale (NOAA), astéroïdes, exoplanètes, images du JWST et assistant IA.
+Application éducative gratuite pour découvrir l'Univers à partir de sources scientifiques reconnues. SolarScope propose des parcours adaptés aux enfants et aux familles, des visualisations 3D, le suivi de l'ISS, la météo spatiale, des missions et un assistant sourcé.
 
-**Ce que le projet démontre** : intégration de plusieurs API scientifiques (NASA, NOAA, Google Gemini), visualisations 3D interactives, sécurisation des clés API côté serveur, déploiement continu sur Vercel, approche orientée produit.
+**Ce que le projet démontre** : transformation d'un projet data en produit web complet ; intégration et normalisation de sources NASA, NOAA et ESA ; cache et modes dégradés explicites ; sécurité côté serveur ; PWA ; tests unitaires, end-to-end et d'accessibilité ; CI/CD sur Vercel.
 
-`Next.js` `React` `TypeScript` `Three.js` `Vercel`
+`Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
-➡️ [Voir l'application en ligne](https://solar-scope.vercel.app)
+### Autres projets publics
 
-### 🎬 [CinéMatch](https://github.com/AtomCrtr/movie-recommendation-app)
-
-Moteur de recommandation de films conçu pour un cinéma local, à partir de données IMDb et TMDB, avec une interface Streamlit.
-
-**Ce que le projet démontre** : étude d'un besoin métier, nettoyage et préparation de données, traitement de texte (TF-IDF), recommandation par similarité cosinus, restitution compréhensible pour des utilisateurs non techniques.
-
-`Python` `Pandas` `DuckDB` `Scikit-learn` `Streamlit`
-
-### 📊 [YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)
-
-Extraction et analyse des vidéos populaires via l'API YouTube Data v3, restituées dans un dashboard Power BI.
-
-**Ce que le projet démontre** : collecte de données via API, préparation et structuration, création d'indicateurs, analyse des catégories et tendances, dashboard Power BI avec mesures DAX.
-
-`Python` `Pandas` `API YouTube` `Power BI` `DAX`
-
-### 🕸️ Projet en cours — MuninOS
-
-Poste de travail OSINT passif, local-first et défensif : un vault Obsidian transformé en graphe de connaissance 3D interactif, interrogeable par un analyste local en lecture seule — aucune collecte active, aucun appel externe.
-
-Projet en développement, non publié pour le moment.
-
-`Obsidian` `Graphes de connaissance` `React` `DuckDB` `OSINT passif`
+- 🎬 **[CinéMatch](https://github.com/AtomCrtr/movie-recommendation-app)** — recommandation de films à partir de données IMDb et TMDB, TF-IDF et similarité cosinus, restituée dans Streamlit.
+- 📊 **[YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)** — extraction via l'API YouTube Data v3 et dashboard Power BI avec mesures DAX.
 
 ---
 
@@ -67,44 +42,31 @@ Projet en développement, non publié pour le moment.
 
 | Domaine | Outils et pratiques |
 |---|---|
-| Data Engineering | Python, SQL, Pandas, pipelines ELT, qualité de données, DuckDB |
-| Business Intelligence | Power BI, DAX, Looker Studio, indicateurs opérationnels |
-| Automatisation | Python, Google Apps Script, Google Sheets |
-| Applications data | Streamlit, Next.js, React, TypeScript, Three.js, Vercel |
-| Graphes, OSINT & connaissance | OSINT passif, GEOINT, analyse de liens, graphes de connaissance, Obsidian |
+| Data Engineering | Python, SQL, Pandas, DuckDB, pipelines ELT, historisation, qualité et traçabilité des données |
+| Data products | Streamlit, FastAPI, Next.js, React, TypeScript, Three.js, conception orientée utilisateur |
+| BI & automatisation | Power BI, DAX, Looker Studio, Google Sheets, Google Apps Script, indicateurs opérationnels |
+| Qualité logicielle | Git, GitHub Actions, tests unitaires et E2E, Playwright, accessibilité, documentation, CI/CD |
+| Analyse & machine learning | Scikit-learn, TF-IDF, similarité cosinus, exploration et visualisation de données |
 
-**Utilisé en contexte professionnel** : Palantir Foundry (Pipeline Builder), Skywise, Python, SQL, Google Sheets, Google Apps Script, Looker Studio, Power BI.
-
-**Démontré dans mes projets publics** : Python, Pandas, DuckDB, Scikit-learn, Streamlit, Power BI, DAX, Next.js, React, TypeScript, Three.js.
-
-**En cours d'approfondissement** : PySpark, PostgreSQL, Neo4j, FastAPI.
+**En cours d'approfondissement** : PySpark, PostgreSQL, Neo4j et FastAPI.
 
 ---
 
 ## Certifications et formation
 
-**Certifications**
-
-- Palantir Foundry Data Engineer Associate
-- Foundry & AIP Builder Foundations
-
-**Formation Data**
-
+- **Palantir Foundry Data Engineer Associate**
+- **Foundry & AIP Builder Foundations**
 - Formation Data Analyst
 - Spécialisation Data Engineering
-
-**Formations complémentaires**
-
-- OSINT, GEOINT, cybersécurité, renseignement et sécurité numérique
+- Formations complémentaires en OSINT, GEOINT, cybersécurité, renseignement et sécurité numérique
 
 ---
 
 ## Actuellement
 
-- spécialisation en Data Engineering industriel ;
-- automatisation de processus métier ;
-- graphes de connaissance et analyse de liens ;
-- projets data utilisables en conditions réelles.
+- évolution de SolarScope comme produit éducatif fiable et accessible ;
+- approfondissement du Data Engineering et de la qualité logicielle ;
+- développement de produits data robustes pour des usages réels.
 
 ---
 
@@ -112,6 +74,7 @@ Projet en développement, non publié pour le moment.
 
 📫 **Contact** : [LinkedIn](https://www.linkedin.com/in/emeline-cartier/)
 
-*Moins de démonstrations isolées, davantage de systèmes fiables et utiles.*
+*Des données brutes aux décisions : construire des systèmes fiables, utiles et transmissibles.*
 
 </div>
+
