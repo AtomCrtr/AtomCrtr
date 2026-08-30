@@ -40,13 +40,13 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 `Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
-### ✈️ [Osint Casebook](https://github.com/AtomCrtr/osint-intelligence-casebook) · en cours, accès privé
+### ✈️ [OSINT Casebook](https://github.com/AtomCrtr/osint-intelligence-casebook) · en cours, accès privé
 
-Étude d'intelligence stratégique de bout en bout sur la résilience d'une chaîne d'approvisionnement aéronautique européenne à l'horizon 2030, réalisée exclusivement à partir de sources ouvertes.
+Portfolio de casebooks d'intelligence en sources ouvertes appliquant une même méthode à plusieurs problématiques : résilience de la chaîne d'approvisionnement du titane, analyse de l'écosystème informationnel Portal Kombat et étude des perturbations GNSS affectant l'aviation civile européenne.
 
-**Ce que le projet démontre** : cadrage d'un besoin décisionnel, plan de recherche, registre de sources évaluées, pipeline reproductible, analyse structurée, niveaux de confiance, contradictions, scénarios et options de résilience.
+**Ce que le projet démontre** : cadrage de besoins de renseignement, collecte OSINT passive, évaluation et traçabilité des sources, pipelines reproductibles, GEOINT et analyse de données, confrontation d'hypothèses, gestion de l'incertitude et production de livrables décisionnels.
 
-`Python` `Données ouvertes` `Analyse structurée` `Scénarios` `Traçabilité des sources`
+`Python` `OSINT` `GEOINT` `Analyse structurée` `Reproductibilité` `Traçabilité des preuves`
 
 ### 🐦‍⬛ [MuninOS](https://github.com/AtomCrtr/MuninOS) · accès privé
 
