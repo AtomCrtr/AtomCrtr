@@ -40,9 +40,9 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 `Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
-### ✈️ [OSINT Casebook](https://github.com/AtomCrtr/osint-intelligence-casebook) · en cours, accès privé
+### ✈️ [Open Intelligence Casebook](https://github.com/AtomCrtr/open-intelligence-casebook) · public
 
-Portfolio de casebooks d'intelligence en sources ouvertes appliquant une même méthode à plusieurs problématiques : résilience de la chaîne d'approvisionnement du titane, analyse de l'écosystème informationnel Portal Kombat et étude des perturbations GNSS affectant l'aviation civile européenne.
+Portfolio public de casebooks d'intelligence en sources ouvertes appliquant une même méthode à plusieurs problématiques : résilience de la chaîne d'approvisionnement du titane, analyse de l'écosystème informationnel Portal Kombat et étude en cours des perturbations GNSS affectant l'aviation civile européenne.
 
 **Ce que le projet démontre** : cadrage de besoins de renseignement, collecte OSINT passive, évaluation et traçabilité des sources, pipelines reproductibles, GEOINT et analyse de données, confrontation d'hypothèses, gestion de l'incertitude et production de livrables décisionnels.
 
@@ -122,4 +122,3 @@ Les dépôts, données et métriques métier concernés restent privés. Les tec
 *Des données brutes aux décisions : construire des systèmes fiables, utiles et transmissibles.*
 
 </div>
-
