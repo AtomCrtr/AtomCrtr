@@ -40,7 +40,7 @@ Application éducative gratuite pour découvrir l'Univers à partir de sources s
 
 `Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
 
-### ✈️ [Open Intelligence Casebook](https://github.com/AtomCrtr/open-intelligence-casebook) · public
+### 🧭 [Open Intelligence Casebook](https://github.com/AtomCrtr/open-intelligence-casebook) · public
 
 Portfolio public de casebooks d'intelligence en sources ouvertes appliquant une même méthode à plusieurs problématiques : résilience de la chaîne d'approvisionnement du titane, analyse de l'écosystème informationnel Portal Kombat et étude en cours des perturbations GNSS affectant l'aviation civile européenne.
 
