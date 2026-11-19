@@ -1,124 +1,127 @@
 <div align="center">
 
-# 👩‍💻 Emeline Cartier
-### Data Engineer — données industrielles, produits data & intelligence opérationnelle
+<img src="assets/hero.svg" width="100%" alt="Emeline Cartier — Data Engineer, OSINT et GEOINT. Bannière terminal avec graphe d'analyse." />
 
-*Je transforme des données dispersées — métier ou sources ouvertes — en systèmes fiables, compréhensibles et utiles aux décisions.*
+<br>
 
-<sub>I build reliable data products and traceable intelligence workflows, from raw sources to decision-ready systems.</sub>
+**Data Engineering · Open-Source Intelligence · Knowledge Graphs**
+
+*Transformer des sources dispersées en systèmes de données fiables et en analyses traçables.*
+
+[**LinkedIn**](https://www.linkedin.com/in/emeline-cartier/) · [**Portfolio OSINT**](https://github.com/AtomCrtr/open-intelligence-casebook) · [**SolarScope en ligne**](https://solar-scope.vercel.app)
 
 </div>
 
 ---
 
-## Ce que je construis
+### `> ./mission.sh`
 
-- des pipelines reproductibles qui structurent, historisent et contrôlent les données ;
-- des indicateurs et applications conçus pour des utilisateurs métier ;
-- des produits data maintenables, testés et documentés ;
-- des graphes de connaissance et analyses stratégiques traçables.
+Je conçois des **pipelines data**, des applications et des analyses fondées sur des preuves vérifiables. Mon parcours mêle **ingénierie des données en environnement industriel** et **expérience de terrain en gendarmerie**.
 
-Ancienne gendarme devenue Data Engineer en environnement industriel, je combine culture du terrain, ingénierie des données et méthodes du renseignement en sources ouvertes. Cette double culture m'a appris à partir du besoin réel, à rendre les limites visibles et à privilégier la fiabilité du livrable autant que sa performance technique.
+Ma ligne directrice : **la qualité des données, la reproductibilité, le recoupement des sources et la clarté du livrable**. Je m'intéresse en particulier à la rencontre entre **Python, OSINT/GEOINT, graphes et analyse criminelle**.
 
----
+```text
+  INPUT                PROCESS                  OUTPUT
+  ───────────          ───────────────────      ───────────────────
+  Sources / API   ──►  Collecte & validation ─► Jeux de données fiables
+  Indicateurs     ──►  Modélisation / BI     ─► Décisions opérationnelles
+  Sources ouvertes──►  Recoupement / analyse ─► Hypothèses & preuves
+```
 
-## OSINT & intelligence
+### `> ./contributions.sh`
 
-J'utilise l'OSINT comme une **discipline d'analyse au service de la décision** : formuler une question, construire un plan de recherche, collecter passivement, évaluer et recouper les sources, tracer les preuves, expliciter les contradictions et les inconnues, puis restituer une conclusion exploitable.
+<div align="center">
 
-Cette pratique se prolonge dans le GEOINT, l'analyse de liens, les graphes de connaissance et la construction de scénarios. Elle reste légale, passive, documentée et soumise à validation humaine.
+<img src="assets/contributions.svg" width="100%" alt="Calendrier des contributions GitHub de @AtomCrtr, mis à jour automatiquement depuis les données GitHub." />
 
----
+<sub>Données issues du calendrier de contributions de GitHub · actualisation automatique quotidienne · aucune statistique inventée.</sub>
 
-## Projets sélectionnés
+</div>
 
-### 🔭 [SolarScope](https://github.com/AtomCrtr/SolarScope) · [application en ligne](https://solar-scope.vercel.app)
+### `> ls ./featured-projects`
 
-Application éducative gratuite pour découvrir l'Univers à partir de sources scientifiques reconnues. SolarScope propose des parcours adaptés aux enfants et aux familles, des visualisations 3D, le suivi de l'ISS, la météo spatiale, des missions et un assistant sourcé.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/AtomCrtr/open-intelligence-casebook">Open Intelligence Casebook</a></h3>
+      <p><b>Portfolio d'analyse OSINT / GEOINT.</b> Quatre dossiers publics : chaîne d'approvisionnement du titane, Portal Kombat, perturbations GNSS et XZ Utils.</p>
+      <p><code>Python</code> <code>OSINT</code> <code>GEOINT</code> <code>Analyse structurée</code></p>
+      <a href="https://github.com/AtomCrtr/open-intelligence-casebook/blob/main/READING_GUIDE.md">→ Guide de découverte</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔭 <a href="https://github.com/AtomCrtr/SolarScope">SolarScope</a></h3>
+      <p><b>Produit éducatif scientifique.</b> Données NASA/ESA/NOAA, visualisations et parcours interactifs, assistant sourcé, tests et CI/CD.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>APIs</code></p>
+      <a href="https://solar-scope.vercel.app">→ Voir l'application</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 <a href="https://github.com/AtomCrtr/vesuvius-data-explorer-atom">Vesuvius Data Explorer</a></h3>
+      <p><b>Exploration et contrôle qualité de scans 3D.</b> Chargement partiel de volumes, visualisation dans napari et contrôles géométriques.</p>
+      <p><code>Python</code> <code>napari</code> <code>Zarr</code> <code>Data Quality</code></p>
+      <a href="https://github.com/AtomCrtr/vesuvius-data-explorer-atom">→ Explorer le dépôt</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/AtomCrtr/youtube-trends-analysis">YouTube Trends</a></h3>
+      <p><b>Exploration et visualisation de données.</b> Extraction via YouTube Data API v3, analyse Python et dashboard Power BI.</p>
+      <p><code>Python</code> <code>API</code> <code>Power BI</code> <code>DAX</code></p>
+      <a href="https://github.com/AtomCrtr/youtube-trends-analysis">→ Voir l'analyse</a>
+    </td>
+  </tr>
+</table>
 
-**Ce que le projet démontre** : transformation d'un projet data en produit web complet ; intégration et normalisation de sources NASA, NOAA et ESA ; cache et modes dégradés explicites ; sécurité côté serveur ; PWA ; tests unitaires, end-to-end et d'accessibilité ; CI/CD sur Vercel.
+<sub>Autre projet public : <a href="https://github.com/AtomCrtr/movie-recommendation-app">CinéMatch</a> — recommandations de films avec TF-IDF, similarité cosinus et Streamlit.</sub>
 
-`Next.js 16` `React 19` `TypeScript` `Three.js` `Vitest` `Playwright` `GitHub Actions` `Vercel`
+### `> cat intelligence-method.md`
 
-### 🧭 [Open Intelligence Casebook](https://github.com/AtomCrtr/open-intelligence-casebook) · public
+> **Decision first. Evidence deep. Human review.**
 
-Portfolio public de casebooks d'intelligence en sources ouvertes appliquant une même méthode à plusieurs problématiques : résilience de la chaîne d'approvisionnement du titane, analyse de l'écosystème informationnel Portal Kombat et étude en cours des perturbations GNSS affectant l'aviation civile européenne.
+| Phase | Objectif |
+|:---|:---|
+| `01 / FRAME` | Transformer le besoin en questions analysables |
+| `02 / COLLECT` | Recueillir des sources ouvertes de manière légale et passive |
+| `03 / VERIFY` | Évaluer la fiabilité, recouper et documenter la provenance |
+| `04 / ANALYZE` | Construire chronologies, graphes, indicateurs et hypothèses concurrentes |
+| `05 / DELIVER` | Expliquer le jugement, le niveau de confiance et les limites |
 
-**Ce que le projet démontre** : cadrage de besoins de renseignement, collecte OSINT passive, évaluation et traçabilité des sources, pipelines reproductibles, GEOINT et analyse de données, confrontation d'hypothèses, gestion de l'incertitude et production de livrables décisionnels.
+Les études publiées distinguent **faits établis, interprétations et incertitudes**. Les validations techniques ne remplacent pas la relecture du raisonnement.
 
-`Python` `OSINT` `GEOINT` `Analyse structurée` `Reproductibilité` `Traçabilité des preuves`
+### `> cat tech-stack.yml`
 
-### 🐦‍⬛ [MuninOS](https://github.com/AtomCrtr/MuninOS) · accès privé
+| Domaine | Outils & méthodes |
+|:---|:---|
+| **Data Engineering** | `Python` `SQL` `Pandas` `DuckDB` `ETL/ELT` `PostgreSQL` |
+| **Applications / API** | `FastAPI` `Streamlit` `Next.js` `React` `TypeScript` |
+| **Data Viz / BI** | `Power BI` `DAX` `Looker Studio` `Google Sheets` |
+| **Qualité & livraison** | `GitHub Actions` `pytest` `Playwright` `CI/CD` `Traçabilité` |
+| **Renseignement ouvert** | `OSINT` `GEOINT` `Analyse de liens` `ACH` `Graphes de connaissance` |
+| **Industrie & données** | `Palantir Foundry / Skywise` `Automatisation` `KPI` |
 
-Environnement personnel local-first qui transforme un vault Obsidian en graphe de connaissance 3D et l'entoure d'une API mémoire en lecture seule, d'une interface d'investigation passive et d'un moteur de raisonnement local.
+### `> cat learning-path.log`
 
-**Ce que le projet démontre** : architecture multi-composants, modélisation de connaissances, recherche locale, contrats read-only, protection de la vie privée, validation automatisée et documentation vivante.
+- **Palantir Foundry Data Engineer Associate** — 2026.
+- **Foundry & AIP Builder Foundations** — 2026.
+- **Data Analyst — RNCP niveau 6**, Wild Code School — 2025.
+- **Open-source Intelligence**, Basel Institute on Governance — 2026.
+- **Formations OSINT / GEOINT et renseignement**, IEGA — 2026.
+- **Prévention des menaces terroristes et de l'extrémisme violent**, Assas Executive Education — 2026.
+- **Parcours Data Engineer**, DataScientest / Mines Paris – PSL Executive Education — en cours.
 
-`Python` `FastAPI` `Obsidian` `React` `Vite` `Three.js` `Graphes de connaissance`
+### `> cat current-focus.txt`
 
-### Autres projets publics
+Aujourd'hui, j'approfondis **Python, les architectures de données, FastAPI, l'analyse structurée et les méthodes OSINT**, tout en développant des outils et des publications qui peuvent être **lus, vérifiés et reproduits**.
 
-- 🎬 **[CinéMatch](https://github.com/AtomCrtr/movie-recommendation-app)** — recommandation de films à partir de données IMDb et TMDB, TF-IDF et similarité cosinus, restituée dans Streamlit.
-- 📊 **[YouTube Trends Analysis](https://github.com/AtomCrtr/youtube-trends-analysis)** — extraction via l'API YouTube Data v3 et dashboard Power BI avec mesures DAX.
-
----
-
-## Expérience en environnement industriel
-
-Je développe également des pipelines, dashboards, automatisations et outils de transmission en contexte industriel. Ces travaux couvrent l'historisation des données, les contrôles qualité, la catégorisation assistée, le suivi d'indicateurs opérationnels et la génération reproductible de livrables décisionnels.
-
-Les dépôts, données et métriques métier concernés restent privés. Les technologies utilisées incluent **Palantir Foundry / Skywise, Python, SQL, Streamlit, Power BI, Looker Studio, Google Sheets et Google Apps Script**.
-
----
-
-## Compétences
-
-| Domaine | Outils et pratiques |
-|---|---|
-| Data Engineering | Python, SQL, Pandas, DuckDB, pipelines ELT, historisation, qualité et traçabilité des données |
-| Data products | Streamlit, FastAPI, Next.js, React, TypeScript, Three.js, conception orientée utilisateur |
-| BI & automatisation | Power BI, DAX, Looker Studio, Google Sheets, Google Apps Script, indicateurs opérationnels |
-| Qualité logicielle | Git, GitHub Actions, tests unitaires et E2E, Playwright, accessibilité, documentation, CI/CD |
-| Analyse & machine learning | Scikit-learn, TF-IDF, similarité cosinus, exploration et visualisation de données |
-| OSINT & intelligence | Cycle du renseignement, recherche passive, évaluation et recoupement des sources, traçabilité des preuves, analyse de liens, GEOINT, scénarios |
-| Connaissance & raisonnement | Graphes de connaissance, Obsidian, recherche locale, structuration entités–preuves–hypothèses, validation humaine |
-
-**En cours d'approfondissement** : PySpark, PostgreSQL, Neo4j et FastAPI.
-
----
-
-## Certifications et formation
-
-**Data Engineering & analyse**
-
-- **Palantir Foundry Data Engineer Associate** — 2026
-- **Foundry & AIP Builder Foundations** — 2026
-- **Parcours Data Engineer** — DataScientest, certificat Mines Paris – PSL Executive Education, en cours
-- **Data Analyst, RNCP niveau 6** — Wild Code School, 2025
-- **Quantitative Techniques** — Columbia University, 2025
-- **Databases & SQL for Data Science** et **Python for Data Science, AI & Development** — IBM, 2025
-
-**OSINT, GEOINT & renseignement**
-
-- **Open-source Intelligence** — Basel Institute on Governance / ICAR, 2026
-- **OSINT et GEOINT : pratiques du renseignement** — Institut d'études de géopolitique appliquée (IEGA), 2026
-- **Cybersécurité, renseignement et menaces terroristes** — IEGA, 2026
-- **GEOINT, cyberguerre, IA et OSINT** — IEGA, 2026
-
----
-
-## Actuellement
-
-- finalisation d'un casebook d'intelligence stratégique aéronautique ;
-- consolidation de MuninOS comme environnement local-first et read-only ;
-- développement de produits data robustes pour des usages réels.
+Mes projets industriels restent décrits à un niveau général : les **données, métriques et livrables métier non publics** ne sont pas publiés.
 
 ---
 
 <div align="center">
 
-📫 **Contact** : [LinkedIn](https://www.linkedin.com/in/emeline-cartier/)
+<sub>**BUILD WITH DATA · INVESTIGATE WITH EVIDENCE · DECIDE WITH CONTEXT**</sub>
 
-*Des données brutes aux décisions : construire des systèmes fiables, utiles et transmissibles.*
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/emeline-cartier/) · [Dépôts publics](https://github.com/AtomCrtr?tab=repositories)
 
 </div>
