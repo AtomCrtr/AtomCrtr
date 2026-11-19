@@ -1,4 +1,4 @@
-![Emeline Cartier, Data Engineer · OSINT / GEOINT](assets/hero.jpg)
+![Emeline C., Data Engineer · OSINT / GEOINT](assets/hero.jpg)
 
 Je suis Data Engineer en alternance dans l’aéronautique. Je travaille sur des pipelines, des contrôles de qualité et des indicateurs. À côté, je me forme à l’analyse criminelle et je publie ici mes projets Python et mes études OSINT.
 
