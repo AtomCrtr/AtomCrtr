@@ -1,33 +1,26 @@
 # Maintenance du profil AtomCrtr
 
-Le README visible sur https://github.com/AtomCrtr provient de la racine du dépôt `AtomCrtr/AtomCrtr`.
+Le profil [AtomCrtr](https://github.com/AtomCrtr) affiche le `README.md` à la racine du dépôt [AtomCrtr/AtomCrtr](https://github.com/AtomCrtr/AtomCrtr).
 
 ## Fichiers
 
-- `README.md` : présentation, projets, compétences et parcours.
-- `assets/hero.svg` : bannière SVG autonome inspirée d'un terminal ; monogramme `EC` au lieu d'un portrait sans photo.
-- `assets/contributions.svg` : calendrier sur 12 mois, mis à jour quotidiennement depuis les données réelles GitHub.
-- `scripts/build_hero.py` : générateur de la bannière.
-- `scripts/build_contributions.py` : client GraphQL GitHub et générateur du calendrier SVG.
-- `.github/workflows/update-contributions.yml` : automatisation de la mise à jour.
+- `README.md` contient la présentation, les projets et les compétences.
+- `assets/hero.jpg` contient la bannière cartographique. En cas de changement d’image, actualiser aussi le texte alternatif dans le README.
+- `assets/contributions.svg` contient le calendrier sur douze mois.
+- `scripts/build_contributions.py` génère le calendrier à partir des données GitHub.
+- `.github/workflows/update-contributions.yml` lance la mise à jour quotidienne et enregistre le SVG lorsque son contenu évolue.
 
 ## Première synchronisation
 
-Sur GitHub, ouvrir le dépôt **AtomCrtr/AtomCrtr** → **Actions** → **Update profile contribution dashboard** → **Run workflow**.
+Dans le dépôt, ouvrir **Actions → Update profile contribution dashboard → Run workflow**. Le workflow se lance aussi lors d’un push qui modifie le script de génération ou son fichier YAML. La planification quotidienne est fixée à 05 h 23 UTC.
 
-Le workflow est aussi déclenché par un push qui modifie son script ou le fichier YAML. Ensuite, il s'exécute chaque jour vers 05:23 UTC (planification indicative de GitHub).
-
-Aucun jeton personnel n'est nécessaire : `GITHUB_TOKEN` est fourni automatiquement par GitHub Actions. L'autorisation de pousser les modifications dépend toutefois des paramètres du dépôt : **Settings → Actions → General → Workflow permissions**.
+GitHub Actions fournit automatiquement le `GITHUB_TOKEN`. La mise à jour dépend de l’autorisation d’écriture de GitHub Actions sur la branche du profil. Les données affichées reflètent la visibilité des contributions pour ce jeton.
 
 ## Utilisation locale
 
 ```bash
-python scripts/build_hero.py
-python scripts/build_contributions.py --offline    # visuel neutre, aucun faux chiffre
-GH_TOKEN=... python scripts/build_contributions.py # calendrier réel
+python scripts/build_contributions.py --offline
 python -m unittest discover -s tests
 ```
 
-Ne jamais publier de jeton dans un dépôt. Les données affichées respectent les paramètres de visibilité du profil GitHub et reflètent ce que l'API expose au workflow.
-
-Les SVG sont autonomes : ils ne téléchargent ni script ni police ni badge externe. Les animations légères du bandeau respectent `prefers-reduced-motion`.
+Le mode hors ligne génère un visuel d’attente. Pour récupérer le calendrier réel localement, définir `GH_TOKEN` dans l’environnement et lancer le script sans option. Garder le jeton hors du dépôt.

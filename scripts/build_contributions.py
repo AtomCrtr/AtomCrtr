@@ -35,12 +35,15 @@ QUERY = '''query ProfileContributions($login: String!) {
   }
 }'''
 COLORS = {
-    'NONE': '#17282f',
-    'FIRST_QUARTILE': '#155d49',
-    'SECOND_QUARTILE': '#1b9665',
-    'THIRD_QUARTILE': '#28c184',
-    'FOURTH_QUARTILE': '#82f7bd',
+    'NONE': '#233746',
+    'FIRST_QUARTILE': '#285963',
+    'SECOND_QUARTILE': '#388581',
+    'THIRD_QUARTILE': '#51b5a5',
+    'FOURTH_QUARTILE': '#9de2cf',
 }
+MONTHS = ('janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin',
+          'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.')
+
 
 def fetch_calendar(token: str) -> dict:
     if not token:
@@ -65,95 +68,87 @@ def fetch_calendar(token: str) -> dict:
     return calendar
 
 
-def text(x, y, value, size=14, color='#a5c3c9', weight='normal', anchor='start', family='Consolas, monospace', **extra):
-    attr = ' '.join(f'{escape(str(k).replace("_", "-"))}="{escape(str(v))}"' for k,v in extra.items())
-    return f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}" font-weight="{weight}" text-anchor="{anchor}" font-family="{family}" {attr}>{escape(str(value))}</text>'
+def label(x, y, value, size=17, color='#aac0c8', weight=400, anchor='start'):
+    return (
+        f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}" '
+        f'font-weight="{weight}" text-anchor="{anchor}">{escape(str(value))}</text>'
+    )
 
 
 def render(calendar: dict | None) -> str:
-    weeks = (calendar or {}).get('weeks', [])
-    days = [d for w in weeks for d in w.get('contributionDays', [])]
-    count = calendar.get('totalContributions') if calendar else None
-    active = sum(d['contributionCount'] > 0 for d in days) if calendar else None
-    maximum = max((d['contributionCount'] for d in days), default=0) if calendar else None
-    peak = max((d for d in days if d['contributionCount'] > 0), key=lambda d:(d['contributionCount'],d['date']), default=None) if calendar else None
-    W,H=1200,366
-    p=[f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title desc">
-<title id="title">Historique GitHub : 12 mois de contributions de {USER}</title>
-<desc id="desc">{escape('Calendrier de contributions GitHub réelles sur douze mois.' if calendar else 'En attente de la première synchronisation automatique des données GitHub.')}</desc>
-<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a151d"/><stop offset="1" stop-color="#0b2025"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="364" rx="22" fill="url(#background)" stroke="#2b5057" stroke-width="2"/>
-<circle cx="32" cy="32" r="5" fill="#60efb0"/>
-''']
-    p += [text(48,37,'atomcrtr@github:~$ ./contributions.sh',16,'#7af1bb'),
-          text(1157,36, 'LIVE · GITHUB GRAPHQL' if calendar else 'PENDING · FIRST WORKFLOW',11,'#8eabb4',anchor='end'),
-          '<path d="M25 57 H1175" stroke="#24424c" stroke-width="1"/>',
-          text(38,88,'CONTRIBUTION CALENDAR / LAST 12 MONTHS',11,'#84a4ae'),
-          text(827,88,'ACTIVITY INTELLIGENCE',11,'#84a4ae')]
-    p.append('<path d="M794 76 V338" stroke="#2c5359" stroke-dasharray="3 7"/>')
-    x0,y0 = 52,132
-    cell=10; sep=3
-    # week cells: use 53 columns, consistently right-aligned if fewer
-    if calendar:
-        offset = max(0, 53-len(weeks))
-        dates=[]
-        for wi,week in enumerate(weeks):
-            for day in week.get('contributionDays',[]):
-                # GraphQL calendar weeks use Sunday-Saturday; date weekday() maps Monday=0.
-                week_day = (date.fromisoformat(day['date']).weekday()+1)%7
-                x=x0+(wi+offset)*(cell+sep)
-                y=y0+week_day*(cell+sep)
-                color=COLORS.get(day.get('contributionLevel'), '#17282f')
-                p.append(f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2.3" fill="{color}"/>')
-                dates.append((wi,day['date']))
-        months={}
-        for wi,ds in dates:
-            ym=ds[:7]
-            if ym not in months: months[ym]=wi+offset
-        if len(months)>12:
-            months=dict(list(months.items())[-12:])
-        names=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC']
-        for ym,wi in months.items():
-            p.append(text(x0+wi*(cell+sep),118,names[int(ym[5:7])-1],10,'#7fa7ad'))
-    else:
-        # Skeleton is intentionally neutral. It never suggests invented contributions.
-        for wi in range(53):
-            for day in range(7):
-                p.append(f'<rect x="{x0+wi*(cell+sep)}" y="{y0+day*(cell+sep)}" width="{cell}" height="{cell}" rx="2.3" fill="#1c2f36"/>')
-        p += [text(400,248,'AWAITING INITIAL SYNC',16,'#83abb2',weight='bold',anchor='middle'),
-              text(400,266,'No contribution statistics are shown yet',11,'#658c98',anchor='middle')]
-    for wd,yy in [('S',140),('T',166),('T',192),('S',218)]:
-        p.append(text(33,yy,wd,10,'#61818a'))
-    p += [text(52,275,'LESS',10,'#7798a1')]
-    for i,c in enumerate(COLORS.values()):
-        p.append(f'<rect x="{92+i*16}" y="265" width="11" height="11" rx="2" fill="{c}"/>')
-    p.append(text(184,275,'MORE',10,'#7798a1'))
-    p.append(text(52,323,'PUBLIC PROFILE ACTIVITY  •  AUTOMATIC DAILY REFRESH',11,'#6c929a'))
-    # Metrics panel. Values from GitHub only; placeholders show a dash.
-    def metric(x,y,label,value):
-        p.append(text(x,y,label,11,'#88a9b2'))
-        p.append(text(x,y+45,value,35,'#d7ffec',weight='bold'))
-    metric(826,128,'TOTAL CONTRIBUTIONS',f'{count:,}'.replace(',',' ') if calendar else '—')
-    metric(1006,128,'ACTIVE DAYS',str(active) if calendar else '—')
-    metric(826,234,'PEAK / DAY',str(maximum) if calendar else '—')
-    metric(1006,234,'LAST UPDATE',date.today().strftime('%d %b %Y').upper() if calendar else '—')
-    if peak:
-        p.append(text(825,333,f'MOST ACTIVE DAY   {peak["date"]}',11,'#77cba8'))
-    else:
-        p.append(text(825,333,'SOURCE: GITHUB CONTRIBUTIONS CALENDAR',11,'#6c929a'))
-    p.append('</svg>')
-    return '\n'.join(p)+'\n'
+    width = 1120
+    height = 251 if calendar else 91
+    title = 'Contributions GitHub sur douze mois'
+    description = ('Calendrier des contributions d’AtomCrtr fourni par GitHub.'
+                   if calendar else 'En attente de la première synchronisation GitHub.')
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" '
+        'role="img" aria-labelledby="title description" font-family="system-ui, sans-serif">',
+        f'<title id="title">{title}</title>',
+        f'<desc id="description">{description}</desc>',
+        f'<rect x="1" y="1" width="{width - 2}" height="{height - 2}" rx="18" '
+        'fill="#101e2c" stroke="#2b4453" stroke-width="2"/>',
+    ]
+    if not calendar:
+        parts.extend((
+            '<circle cx="35" cy="46" r="6" fill="#89d6c7"/>',
+            label(58, 56, 'En attente de la synchronisation GitHub', 29),
+            '</svg>',
+        ))
+        return '\n'.join(parts) + '\n'
+
+    weeks = calendar['weeks']
+    total = f"{calendar['totalContributions']:,}".replace(',', '\N{NARROW NO-BREAK SPACE}')
+    active_days = sum(day['contributionCount'] > 0
+                      for week in weeks for day in week['contributionDays'])
+    parts.extend((
+        label(31, 43, '12 derniers mois', 22, '#e3f1ef', 600),
+        label(1089, 43, f'{total} contributions · {active_days} jours actifs', 20,
+              '#a2dbd2', anchor='end'),
+    ))
+
+    columns = max(53, len(weeks))
+    step = min(19, 1006 / (columns - 1))
+    cell = 14
+    left = 74
+    top = 81
+    months = {}
+    for column, week in enumerate(weeks, start=columns - len(weeks)):
+        x = left + column * step
+        for day in week['contributionDays']:
+            value = date.fromisoformat(day['date'])
+            y = top + (value.weekday() + 1) % 7 * 18
+            color = COLORS.get(day['contributionLevel'], COLORS['NONE'])
+            parts.append(f'<rect x="{x:.1f}" y="{y}" width="{cell}" height="{cell}" '
+                         f'rx="3" fill="{color}"/>')
+            months.setdefault((value.year, value.month), x)
+
+    month_starts = list(months.items())
+    for index, ((_, month), x) in enumerate(month_starts):
+        if index + 1 < len(month_starts) and month_starts[index + 1][1] - x < 57:
+            continue
+        parts.append(label(f'{x:.1f}', 72, MONTHS[month - 1], 15))
+
+    for row, name in ((1, 'lun.'), (3, 'mer.'), (5, 'ven.')):
+        parts.append(label(30, top + row * 18 + 12, name, 15))
+
+    parts.append(label(925, 228, 'Moins', 15, anchor='end'))
+    for index, color in enumerate(COLORS.values()):
+        parts.append(f'<rect x="{935 + index * 21}" y="215" width="{cell}" '
+                     f'height="{cell}" rx="3" fill="{color}"/>')
+    parts.extend((label(1043, 228, 'Plus', 15), '</svg>'))
+    return '\n'.join(parts) + '\n'
 
 
 def main() -> None:
     parser=argparse.ArgumentParser()
-    parser.add_argument('--offline',action='store_true',help='Generate a clearly labelled empty skeleton only')
+    parser.add_argument('--offline',action='store_true',help='Generate a placeholder before the first GitHub sync')
     args=parser.parse_args()
     calendar=None if args.offline else fetch_calendar(os.environ.get('GH_TOKEN',''))
     svg=render(calendar)
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(svg,encoding='utf-8')
-    print(f'{OUT}: {len(svg):,} bytes, {"real GitHub data" if calendar else "honest skeleton"}')
+    print(f'{OUT}: {len(svg):,} bytes, {"real GitHub data" if calendar else "offline placeholder"}')
 
 if __name__=='__main__':
     try: main()
