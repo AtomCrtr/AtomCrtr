@@ -3,7 +3,7 @@
 <desc id="description">Calendrier des contributions d’AtomCrtr fourni par GitHub.</desc>
 <rect x="1" y="1" width="1118" height="249" rx="18" fill="#101e2c" stroke="#2b4453" stroke-width="2"/>
 <text x="31" y="43" fill="#e3f1ef" font-size="22" font-weight="600" text-anchor="start">12 derniers mois</text>
-<text x="1089" y="43" fill="#a2dbd2" font-size="20" font-weight="400" text-anchor="end">1 270 contributions · 74 jours actifs</text>
+<text x="1089" y="43" fill="#a2dbd2" font-size="20" font-weight="400" text-anchor="end">1 305 contributions · 75 jours actifs</text>
 <rect x="74.0" y="81" width="14" height="14" rx="3" fill="#233746"/>
 <rect x="74.0" y="99" width="14" height="14" rx="3" fill="#233746"/>
 <rect x="74.0" y="117" width="14" height="14" rx="3" fill="#233746"/>
@@ -369,7 +369,8 @@
 <rect x="1043.0" y="171" width="14" height="14" rx="3" fill="#285963"/>
 <rect x="1043.0" y="189" width="14" height="14" rx="3" fill="#51b5a5"/>
 <rect x="1062.0" y="81" width="14" height="14" rx="3" fill="#285963"/>
-<rect x="1062.0" y="99" width="14" height="14" rx="3" fill="#285963"/>
+<rect x="1062.0" y="99" width="14" height="14" rx="3" fill="#388581"/>
+<rect x="1062.0" y="117" width="14" height="14" rx="3" fill="#388581"/>
 <text x="93.0" y="72" fill="#aac0c8" font-size="15" font-weight="400" text-anchor="start">déc.</text>
 <text x="169.0" y="72" fill="#aac0c8" font-size="15" font-weight="400" text-anchor="start">janv.</text>
 <text x="264.0" y="72" fill="#aac0c8" font-size="15" font-weight="400" text-anchor="start">févr.</text>
